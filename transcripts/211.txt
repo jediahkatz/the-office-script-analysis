@@ -12,8 +12,8 @@ Katara:: Aang, wait!
 Katara:: We'd better start walking. We're the only people who know about the solar eclipse. We have to get that information to Ba-Sing-Se.
 Sokka:: You think if we dig out the giant owl, he'll give us a ride?
 Zuko:: Maybe we should make camp.
-Iroh::  No, please, don't stop for me!
-Iroh::  What now?
+Iroh:: No, please, don't stop for me!
+Iroh:: What now?
 Iroh:: Colonel Mongke! What a pleasant surprise!
 Mongke:: If you're surprised we're here then the Dragon of the West has lost a few steps.
 Zuko:: You know these guys?
@@ -24,7 +24,7 @@ Mongke:: Enough stalling! Round 'em up!
 Iroh:: It's nice to see old friends.
 Zuko:: Too bad you don't have any old friends that don't want to attack you.
 Iroh:: Hmm... Old friends that don't want to attack me...
-Sokka::  Can't you watch where you're -
+Sokka:: Can't you watch where you're -
 Toph:: No.
 Sokka:: Right. Sorry.
 Katara:: Come on guys, we've got to stick together.
@@ -39,7 +39,7 @@ Katara:: Sokka, wait! You shouldn't be eating strange plants!
 Sokka:: There's water trapped inside these!
 Katara:: I don't know...
 Sokka:: Suit yourself. It's very thirst-quenching, though.
-Sokka::  Drink cactus juice. It'll quench ya! Nothing's quenchier.  It's the quenchiest!
+Sokka:: Drink cactus juice. It'll quench ya! Nothing's quenchier. It's the quenchiest!
 Katara:: Okay, I think you've had enough.
 Sokka:: Who lit Toph on fire?
 Toph:: Can I get some of that cactus?
@@ -51,7 +51,7 @@ Katara:: What is that?
 Toph:: What? What is what?
 Sokka:: It's a giant mushroom! Maybe it's friendly!
 Katara:: Let's just keep moving. I hope Aang's okay...
-Sokka::  Friendly mushroom!Mushy giant friend!
+Sokka:: Friendly mushroom!Mushy giant friend!
 Man:: Yeah, a little barefoot blind girl and her friends passed through here a few days ago.
 Master Yu:: Did they give you any indication where they were headed?
 Man:: Maybe you could give me a little incentive?
@@ -63,7 +63,7 @@ Xin Fu:: Hey, look... Fire Nation wanted posters!
 Master Yu:: So -
 Xin Fu:: So, look who's here.
 Katara:: I'm sorry, Aang. I know it's hard for you right now, but we need to focus on getting out of here.
-Aang::  What's the difference? We won't survive without Appa. We all know it.
+Aang:: What's the difference? We won't survive without Appa. We all know it.
 Katara:: Come on, Aang! We can do this if we work together. Right, Toph?
 Toph:: As far as I can feel, we're trapped in a giant bowl of sand pudding. I got nothin'.
 Katara:: Sokka?  Any ideas how to find Ba-Sing-Se?
@@ -76,18 +76,18 @@ Sokka:: Momo, no! You've killed us all!
 Katara:: No, he hasn't.
 Sokka:: Oh, right. Bending.
 Katara:: Sokka, let me see the things you got from the library.
-Sokka::  What! I didn't steal anything! Who told you that?!  It was you! You ratted me out!
+Sokka::  What! I didn't steal anything! Who told you that?! It was you! You ratted me out!
 Katara:: Sokka, I was there.
 Aang:: It doesn't matter. None of those will tell us where Appa is.
-Katara:: No, but we can find out which way Ba-Sing-Se is. We can use the stars to guide us. That way we can travel at night when it's cool and rest during the day.  Just try to get some sleep. We'll start again in a few hours.
+Katara:: No, but we can find out which way Ba-Sing-Se is. We can use the stars to guide us. That way we can travel at night when it's cool and rest during the day. Just try to get some sleep. We'll start again in a few hours.
 Zuko:: No one here is going to help us. These people just look like filthy wanderers.
-Iroh:: So do we.  Ah, this is interesting. I think I've found our friend.
+Iroh:: So do we. Ah, this is interesting. I think I've found our friend.
 Zuko:: You brought us here to gamble on Pai Sho?
 Iroh::: I don't think this is a gamble.
 Xin Fu:: Let's take them now!
 Master Yu:: This place is full of desperate characters. If they find out we're collecting a bounty, we might have to fight them all just to keep our prize. Patience.
 Iroh:: May I have this game?
-Pai Sho Player:: The guest has the first move.  I see you favor the white lotus gambit. Not many still cling to the ancient ways.
+Pai Sho Player:: The guest has the first move. I see you favor the white lotus gambit. Not many still cling to the ancient ways.
 Iroh:: Those who do can always find a friend.
 Pai Sho Player:: Then let us play.
 Pai Sho Player:: Welcome, brother. The White Lotus opens wide to those who know her secrets.
@@ -104,36 +104,36 @@ Katara:: Come on, get up. We need to go.
 Toph:: Yesterday my mouth tasted like mud. Now it just tastes like sand. I never thought I'd miss the taste of mud so much.
 Aang:: I'm awake. I couldn't sleep.
 Katara:: Well, we need to get moving if we want to get out of this sand pit.
-Aang::  Appa!
+Aang:: Appa!
 Sokka:: Appa? But why would Princess Yue need him? She's the moon! She flies by herself!
-Katara::  It's just a cloud. Wait! A cloud!
+Katara:: It's just a cloud. Wait! A cloud! Here, fly up and bend the water from that cloud into my pouch.
 Katara:: Wow... there's hardly any in here.
-Aang::  I'm sorry, okay! It's a desert cloud; I did all I could! What's anyone else doing! What are you doing?
+Aang:: I'm sorry, okay! It's a desert cloud; I did all I could! What's anyone else doing! What are you doing?
 Katara:: Trying to keep everyone together. Let's just get moving. We need to head in this direction.
 Toph:: Ow! Crud! I am so sick of not feeling where I'm going! And what idiot buried a boat in the middle of the desert?!
 Katara:: A boat?
 Toph:: Believe me, I kicked it hard enough to feel plenty of vibrations.
 Katara:: It's one of the gliders the sandbenders use! And look! It's got some kind of compass on it! I bet it can point us out of here! Aang, you can bend a breeze so we can sail it. We're going to make it!
 Pai Sho Player:: It is an honor to welcome such a high-ranking member of the Order of the White Lotus. Being a Grand Master, you must know so many secrets.
-Zuko:: Now that you played Pai Sho,are you going to do some flower arranging, or is this club going to offer some real help?
+Zuko:: Now that you played Pai Sho,are you going to do some flower arranging, or is this club going to offer some help?
 Iroh:: You must forgive my nephew. He is not an initiate and has little appreciation for the cryptic arts.
 Doorman:: Who knocks at the guarded gate?
 Iroh:: One who has eaten the fruit and tasted its mysteries.
-Iroh:: I'm afraid it's members only. Wait out here.  Cut to Aang and company. Fade to a shot from above of the sand glider racing through the desert. Aang is driving it forwards by bending powerful gusts of air into the sail. Katara is standing on the upper platform and navigating using the compass and star map.)
+Iroh:: I'm afraid it's members only. Wait out here.
 Katara:: The needle on this compass doesn't seem to be pointing north according to my charts.
-Sokka::  Take it easy little lady. I'm sure the sand folks who built this baby know how to get around here.
-Katara::  That's what the compass is pointing to! That giant rock! It must be the magnetic center of the desert.
-Toph::  A rock?  Yes! Let's go!
+Sokka:: Take it easy little lady. I'm sure the sand folks who built this baby know how to get around here.
+Katara:: That's what the compass is pointing to! That giant rock! It must be the magnetic center of the desert.
+Toph:: A rock?  Yes! Let's go!
 Katara:: Maybe we can find some water there!
-Aang::  Maybe we can find some sandbenders.
+Aang:: Maybe we can find some sandbenders.
 Toph:: Ahhh... Finally! Solid ground!
-Sokka::  I think my head is starting to clear out the cactus juice. And look!
+Sokka:: I think my head is starting to clear out the cactus juice. And look!
 Sokka:: This tastes like rotten penguin meat! Awww I feel woozy.
-Katara::  You've been hallucinating on cactus juice all day and then you just lick something you find stuck to the wall of a cave?!
+Katara:: You've been hallucinating on cactus juice all day and then you just something you find stuck to the wall of a cave?!
 Sokka:: I have a natural curiosity.
 Toph:: I don't think this is a normal cave. This was carved by something.
 Aang:: Yeah... look at the shape.
-Toph:: There's something buzzing in here. Something that's coming for us!
+Toph:: There's something in here. Something that's coming for us!
 Sokka:: What are you doing?! That rock almost crushed me!
 Toph:: Sorry, I can't tell where they are in the air!
 Sokka:: I got this one.
@@ -161,21 +161,21 @@ Gashuin:: Sorry, father.
 Toph:: I recognize the son's voice. He's the one that stole Appa.
 Katara:: Are you sure?
 Toph:: I never forget a voice.
-Aang::  You stole Appa! Where is he  What did you do to him
+Aang:: You stole Appa! Where is he  What did you do to him
 Gashuin:: They're lying! They're the thieves!
 Aang:: Where is my bison?!
 Xin Fu:: Hey you, where are these men? I got a tip that they're in your shop.
 Florist::  As you can see, no one is here but us.
-Master Yu:: We know all about your secret back room.  Kick it down.
+Master Yu:: We know all about your secret back room. Kick it down.
 Florist:: Hey! That room is for flowers only!
 Master Yu:: Some unlucky soul has an incomplete Pai Sho set.
-Xin Fu::  Let's go back to finding the girl.
+Xin Fu:: Let's go back to finding the girl.
 Aang:: You tell me where he is now!
-Sha-Mo::   What did you do?
+Sha-Mo:: What did you do?
 Gashuin:: I-It wasn't me!
 Toph:: You said to put a muzzle on him!
-Aang::  You muzzled Appa?!
+Aang:: You Appa?!
 Gashuin:: I'm sorry! I didn't know that it belonged to the Avatar!
-Aang::  Tell me where Appa is!
-Gashuin::  I traded him! To some merchants! He's probably in Ba-Sing-Se by now! They were going to sell him there! Please! We'll escort you out of the desert! We'll help however we can!
+Aang:: Tell me where Appa is!
+Gashuin:: I traded him! To some merchants! He's probably in Ba-Sing-Se by now! They were going to sell him there! Please! We'll escort you out of the desert! We'll help however we can!
 Sokka:: Just get out of here! Run!

@@ -51,7 +51,7 @@ Zuko::  Well, that's not exactly what I...
 Azula::  I think you should take their precious hope  and the rest of their land,  and burn it all to the ground.
 Fire Lord Ozai:: Yes...  Yes, you're right, Azula. Sozin's Comet is almost upon us  and on that day it will endow us with the strength and power of a hundred Suns. No bender will stand a chance against us.
 General Shinu::  What are you suggesting, sir?
-Fire Lord Ozai:: When the comet last came, my grandfather, Fire Lord Sozin, used it to wipe out the Air Nomads. Now, I will use its power to end the Earth Kingdom.  Permanently.  From our airships,  we will rain fire over their lands. A fire that will destroy everything .  And out of the ashes,  a new World will be born. A World in which all the lands are Fire Nation and I am  the supreme ruler of everything!
+Fire Lord Ozai:: When the comet last came, my grandfather, Fire Lord Sozin, used it to wipe out the Air Nomads. Now, I will use its power to end the Earth Kingdom.  Permanently.  From our airships,  we will rain fire over their lands. A fire that will destroy .  And out of the ashes,  a new World will be born. A World in which the lands are Fire Nation and am  the supreme ruler of everything!
 Zuko::  I wanted to speak out against this horrifying plan.  But I'm ashamed to say I didn't.  My whole life I struggled to gain my Father's love and acceptance.  But once I had it, I realized I lost myself getting there.  I forgotten who I was.
 Katara:: I can't believe this.
 Sokka:: I always knew that the Fire Lord was a bad guy but his plan is just pure evil.
@@ -131,7 +131,7 @@ Katara:: Maybe he was captured.
 Sokka:: I don't think so. There's no sign of a struggle.
 Toph::  I bet he ran away again.
 Sokka:: Ah-uh. He left behind his glider and Appa.
-Toph:: Then what do you think happened to him oh sleuthy one?
+Toph:: Then what do think happened to him oh sleuthy one?
 Sokka:: It's pretty obvious.  Aang mysteriously disappears before an important battle? He's definitely on a Spirit World journey.
 Zuko:: But if he was, wouldn't his body still be here?
 Sokka::  Oh yeah, forgot about that.
@@ -153,23 +153,23 @@ Zuko::  Get out of the bison's mouth, Sokka.  We have a real problem here. Aang 
 Katara::  What should we do Zuko?
 Zuko::  I don't know.  Why are you all looking at me?
 Katara::  Well, you are kind of the expert on tracking Aang.
-Toph::  Yeah, if anyone's got experience hunting the Avatar, it's you.
+Toph:: Yeah, if anyone's got experience hunting the Avatar, it's you.
 Sokka:: Zuko, I don't want to tell you how to do your job but why are we heading towards the Earth Kingdom? There's no way Aang's there.
 Zuko::  Just trust me.
-Azula:: Come on slowpokes, faster!
+Azula:: Come on slowpokes, faster!  . .
 Azula:: Sorry I'm late, Father. Good palanquin bearers  are so hard to come by these days. So, is everything ready for our departure?
 Fire Lord Ozai::  There has been a change of plans, Azula.
 Azula::  What?
-Fire Lord Ozai::  I've decided to lead the fleet of airships to Ba Sing Se alone .  You will remain here in the Fire Nation.
+Fire Lord Ozai::  I've decided to lead the fleet of airships to Ba Sing Se .  You will remain here in the Fire Nation.
 Azula::  But I thought we were going to do this together.
-Fire Lord Ozai::  My decision is final .
+Fire Lord Ozai::  My decision is .
 Azula::  You...  you can't treat me like this.  You can't treat me like Zuko!
 Fire Lord Ozai::  Azula, silence yourself.
 Azula::  But it was my idea  to burn everything to the ground! I deserve to be by your side!
 Fire Lord Ozai::  Azula!  Listen to me.  I need you here to watch over the homeland, it's a very important job  that I can only entrust to you.
 Azula::  Really?
 Fire Lord Ozai:: And for your loyalty,  I've decided to declare you the new Fire Lord.
-Azula::  Fire Lord Azula?  It does seem appropriate. But,  what about you?
+Azula::  Fire Lord Azula?  It does seem appropriate. But, what about you?
 Fire Lord Ozai::  Fire Lord Ozai is no more. Just as the World will be reborn in fire,  I shall be reborn  as the supreme ruler of the World.  From this moment on, I will be known as...  the "Phoenix King"!
 Katara::  And the reason you brought us to a seedy Earth Kingdom tavern is what now?
 Zuko:: June.

@@ -14,7 +14,7 @@ Katara:: I have Aang's staff.
 Zuko::  Well, what does that mean?
 June:: It means your friend's gone.
 Toph:: We know he's gone, that's why we're trying to find him.
-June::  No, I mean he's gone gone .  He doesn't exist.
+June::  No, I mean he's gone .  He doesn't exist.
 Aang:: Where are we, Momo?  Maybe I'm in the Spirit World  But wait,  you can see me. We can both  be in the Spirit World.  Nope,  my bending works.  Maybe if we climb  to the top of the island we could figure out where we are.
 Sokka:: What do you mean Aang doesn't exist?  Do you mean he's... you know, dead?
 June::  Nope, we could find him if he were dead. Ah,  it's a real head scratcher.  See ya.
@@ -27,7 +27,7 @@ Zuko:: Hey, wait up!
 Zuko:: We're going to Ba Sing Se?
 June::  Your Uncle's somewhere beyond the wall.  Nyla's getting twitchy so he can't be too far. Good luck.
 Zuko:: It's been a long day.  Let's camp and start our search again at dawn.
-Aang:: It's a hexagon.  It doesn't  seem raises his arms in exasperation and walks away like normal rock.  It's not made of earth. This is so strange.  I wish I had some help right now. I wish I had Roku. I do have Roku.
+Aang:: It's a hexagon.  It doesn't  seem like normal rock.  It's not made of earth. This is so strange.  I wish I had some help right now. I wish I had Roku. I do have Roku.
 Avatar Roku:: You're right, Aang.  All the past Avatars, all their experience and wisdom,  is available to you  if you look deep inside yourself.
 Aang::  So where am I, Roku? What is this place?
 Avatar Roku::  I... don't know, Aang.  But  I see that you are lost in more ways than one right now.
@@ -63,10 +63,10 @@ Bumi:: Oh well, so long as they have each other I'm sure  we have nothing  to wo
 Aang:: Avatar Kyoshi, I need your wisdom.
 Avatar Kyoshi:: In my day,  Chin the Conqueror threatened to throw the World out of balance.  I stopped him and the World entered a great era of peace.
 Aang::  But you didn't really kill Chin,  technically he fell to his own doom because  he was too stubborn to get out of the way.
-Avatar Kyoshi::  Personally I don't really see the difference but I assure you, I would have done whatever it took to stop Chin.  I offer you this wisdom, Aang.  Only justice will bring peace.
+Avatar Kyoshi::  Personally I don't really see the difference but I assure you, I would have done whatever it took to Chin.  I offer you this wisdom, Aang.  Only justice will bring peace.
 Aang:: I knew I shouldn't have asked Kyoshi.
 Sokka:: So Bumi,  how did you end up escaping your imprisonment in Omashu?
-Bumi:: Escape? I didn't escape, everybody else escaped.  There I was,  back in Omashu, waiting for just the right  moment. I didn't know  what or when but I knew I'd know it when I knew it.  An eclipse. That would do it.
+Bumi:: Escape? I didn't escape, everybody else escaped.  There I was,  back in Omashu, waiting for the right  moment. I didn't know  what or when but I knew I'd know it when I knew it.  An eclipse. That would do it.
 Fire Nation soldier:: What do you  think you're doing?
 Bumi:: Taking back my city. You've got no  fire power and it's payback time.
 Suki:: Wow, you took back your whole city all by yourself.
@@ -88,10 +88,10 @@ Aang::  All these past Avatars,  they keep telling me I'm gonna have to do it. T
 Avatar Yangchen:: I am Avatar Yangchen,  young airbender.
 Aang::  Avatar Yangchen, the monks always  taught me that all life is sacred. Even the life of the tiniest spider-fly caught in its own web.
 Avatar Yangchen::  Yes, all life is sacred.
-Aang::   I know, I'm  even a vegetarian. I've always tried to solve my problems by being quick or clever and I've only had to use violence for necessary defence and I've certainly  never used it to take a life.
+Aang:: I know, I'm  even a vegetarian. I've always tried to solve my problems by being quick or clever and I've only had to use violence for necessary defence and I've certainly  never used it to take a life.
 Avatar Yangchen::  Avatar Aang,  I know that you're a gentle spirit and the monks have taught you well. But this isn't about you,  this is about the World.
 Aang:: But the monks taught me that I had to detach myself from the World so my spirit could be free.
-Avatar Yangchen::  Many great and wise air nomads have detached themselves and achieved spiritual enlightenment but the Avatar  can never do it because your sole duty is to the World. Here is my wisdom for you,  selfless duty  calls you to sacrifice your own spiritual needs and do whatever  it takes to protect the World.
+Avatar Yangchen::  Many great and wise air nomads have detached themselves and achieved spiritual enlightenment but the Avatar  can never do it because your sole duty is the World. Here is my wisdom for you,  selfless duty  calls you to sacrifice your own spiritual needs and do whatever  it takes to protect the World.
 Aang::  I guess I don't have a choice, Momo.  I have to kill the Fire Lord.
 Zuko:: Uncle, I know you must have mixed feelings about seeing me.  But I want  you to know, I'm so  so sorry, Uncle.  I'm so sorry and ashamed of what I did.  I don't know  how I can ever make it up to you but  I'll...
 Zuko::  How can you forgive me so easily? I thought you would be furious with me.
@@ -113,10 +113,10 @@ Iroh::  Even if I did defeat Ozai, and I don't know that  I could. It will be th
 Zuko::  And then... then would you come and take your rightful place on the throne?
 Iroh::  No. Someone  new must take the throne. An idealist with a pure heart and  unquestionable honour. It has to be you,  Prince Zuko.
 Zuko::  Unquestionable honour? But I've made  so many mistakes.
-Iroh::  Yes, you have.  You struggled, you suffered but you have always followed your own path, you  restored your own honour. And only you  can restore the honour of the Fire Nation.
+Iroh::  Yes, you have.  You struggled, you suffered but you have always followed own path, you  restored your honour. And only you  can restore the honour of the Fire Nation.
 Zuko:: I'll try, Uncle.
 Toph::  Well,  what if Aang doesn't come back?
-Iroh:: Sozin's Comet is arriving and our destinies are upon us. Aang will face the Fire Lord.  When I was a boy, I had a vision that I would one day take Ba Sing Se.  Only now do I see that my destiny is to take it back from the Fire Nation so the Earth Kingdom can be free again.
+Iroh:: Sozin's Comet is arriving and our destinies are upon us. Aang will face the Fire Lord.  When I was a boy, I had a vision that I would one day take Ba Sing Se.  Only now do I see that my destiny is to take it from the Fire Nation so the Earth Kingdom can be free again.
 Suki::  That's why you gathered  the members of the White Lotus.
 Iroh:: Yes.  Zuko,  you must return to the Fire Nation so that when the Fire Lord falls, you can assume the throne and restore peace and order.  But Azula will be there, waiting  for you.
 Zuko::  I can handle Azula.

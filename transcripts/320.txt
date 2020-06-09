@@ -1,8 +1,8 @@
 Katara:: Zuko, don't worry, we can take Azula.
 Zuko:: I'm not worried about her, I'm worried about Aang. What if he doesn't have the guts to take out my Father? What if he loses?
 Katara:: Aang won't lose. He's gonna come back. He has to.
-Azula::  What am I holding?
-Servant Girl::  A cherry pit, Princess.
+Azula:: What am I holding?
+Servant Girl:: A cherry pit, Princess.
 Azula:: Correct. And what day is this?
 Servant Girl:: It is the day of your coronation.
 Azula:: Yes, it is. So please, tell me why on the most important day of my life you decided to leave a pit in my cherry?
@@ -10,8 +10,8 @@ Servant Girl:: It wasn't a decision. It was just a small mistake.
 Azula:: Small? Do you realize what could have happened if I hadn't sensed the pit in time?
 Servant Girl:: I supposed you could have... choked?
 Azula:: Yes. Then you will understand the severity of your crime.
-Servant Girl::  I understand, Princess. Please, forgive me.
-Azula::  Oh very well. Since this is a special day, I will show mercy.  You are banished. Leave this palace immediately.   What are you all looking at? I have two feet that need scrubbing. And make sure you get in between the toes.  I won't have my first day as Fire Lord marred by poor foot hygiene.
+Servant Girl:: I understand, Princess. Please, forgive me.
+Azula:: Oh very well. Since this is a special day, I will show mercy. You are banished. Leave this palace immediately. What are you all looking at? I have two feet that need scrubbing. And make sure you get in between the toes. I won't have my first day as Fire Lord marred by poor foot hygiene.
 Suki:: It's weird to say, but the comet actually looks beautiful.
 Toph:: Too bad the Fire Lord is about to use it to destroy the World.
 Sokka:: We're too late! The fleet's already taking off!
@@ -19,7 +19,7 @@ Toph:: Then we're taking off too. Where's the closest airship?
 Sokka:: It's right...
 Toph:: Ugh.
 Dai Li Agent:: You sent for us, Princess? Is everything alright?
-Azula::  Actually, everything's not alright. Do you know how long it took you to get here?
+Azula:: Actually, everything's not alright. Do you know how long it took you to get here?
 Dai Li Agent:: A... few minutes I guess?
 Azula:: Five, to be precise. In which time an assassin could have snuck in, done away with me and been on his merry way.
 Dai Li Agent:: My apologies, Princess.
@@ -32,18 +32,18 @@ Azula:: Please send in the next group on your way out.
 Sokka:: Shh.
 Toph:: That's how it's done.
 Sokka:: Good work, Toph. Time to take control of the ship. Take the wheel.
-Toph::  That's a great idea! Let the blind girl steer the giant airship.
+Toph:: That's a great idea! Let the blind girl steer the giant airship.
 Sokka:: I was talking to Suki.
 Toph:: That would make a lot more sense.
-Suki::  What are we going to do about the rest of the crew?
+Suki:: What are we going to do about the rest of the crew?
 Sokka:: Take us down closer to the water. I've got an idea.
-Sokka::  Attention crew, this is your Captain speaking. Everyone please report to the bomb bay immediately for hot cakes and... sweet cream. We have a very special birthday to celebrate.
+Sokka:: Attention crew, this is your Captain speaking. Everyone please report to the bomb bay for hot cakes and... sweet cream. We have a very special birthday to celebrate.
 Elite Firebender #1:: Hey. I'm Quin Lee, I work up in communications.
 Engineer:: Oh hi, I work down in the engine room. It's probably why we've never met before. Big airship, you know?
 Elite Firebender #1:: Huh.
 Engineer:: Yep.
 Elite Firebender #1:: So, do you know whose birthday it is?
-Elite Firebender #2::  I can't believe the Captain remembered my birthday! He really does care.
+Elite Firebender #2:: I can't believe the Captain remembered my birthday! He really does care.
 Engineer:: Happy Birthday.
 Sokka:: Fire Lord Ozai, here we come.
 Li:: Azula, we heard what happened. Why have you banished all your servants?
@@ -51,39 +51,39 @@ Lo:: All your Dai Li agents?
 Li:: And the Imperial firebenders?
 Azula:: None of them could be trusted. Sooner or later, they all would have betrayed me. Just like Mai and Ty Lee did.
 Li &amp; Lo:: Azula, we are concerned for you and your well being.
-Azula::  My Father asked you to come here and talk to me, didn't he He thinks I can't handle the responsibility of being Fire Lord. But I will be the greatest leader in Fire Nation history.
+Azula:: My Father asked you to come here and talk to me, didn't he He thinks I can't handle the responsibility of being Fire Lord. But I will be the greatest leader in Fire Nation history.
 Lo:: I'm sure you will. But considering everything that has happened today...
 Li:: Perhaps it's best you postponed your coronation.
-Azula::  What?! Which one of you just said that?
+Azula:: What?! Which one of you just said that?
 Azula:: What a shame. There's only one way to resolve this. You two must duel each other. I order you to fight an Agni Kai.
 Lo:: But...
 Li &amp; Lo:: We're not firebenders.
-Azula:: Alright, fine.  Lo, you're banished.  Li, you can stay.
+Azula:: Alright, fine. Lo, you're banished. Li, you can stay.
 Li:: But I'm Li. So who's banished?
 Bumi:: Ba Sing Se, the Order of the White Lotus is here.
 Pakku:: Here to set you free.
 Iroh:: Only once every hundred years can a firebender experience this kind of power.
 Azula:: Alright hair, it's time to face your doom.
 Ursa::  What a shame, you always had such beautiful hair.
-Azula:: What are you doing here?
+Azula:: What are doing here?
 Ursa:: I didn't want to miss my own daughter's coronation.
 Azula:: Don't pretend to act proud. I know what you really think of me. You think I'm a monster.
 Ursa:: I think you're confused. All your life you used fear to control people. Like your friends Mai and Ty Lee.
 Azula:: But what choice do I have?! Trust is for fools. Fear is the only reliable way. Even you fear me.
-Ursa:: No. I love you, Azula. I do.
+Ursa:: No. I you, Azula. I do.
 Sokka:: We're not going to catch up to him in time.
-Suki::  No...
+Suki:: No...
 Aang:: Momo, time for you to go.
 Suki:: What just happened?
-Sokka::  It's Aang! He's back!
-Ozai::  After generations of Fire Lords failed to find you, now the Universe delivers you to me as an act of providence.
+Sokka:: It's Aang! He's back!
+Ozai:: After generations of Fire Lords failed to find you, now the Universe delivers you to me as an act of providence.
 Aang:: Please listen to me. We don't have to fight. You have the power to end it here and stop what you're doing.
 Ozai:: You are right. I do have the power. I have all the power in the World!
 Sokka:: Go, Aang! Airbending slice!
 Suki:: Shouldn't we be helping him?
 Sokka:: The Fire Lord is Aang's fight. We need to stay focused on stopping that fleet from burning down the Earth Kingdom.
 Toph:: And how do we do that, Captain Boomerang? I can't see outside of this floating hunk of metal.
-Sokka::  Airship slice!
+Sokka:: Airship slice!
 Toph:: Whoa. That's a lot of fire, isn't it?
 Sokka:: It's going to be a rough ride. We need to get to the top of this thing, fast.
 Suki:: Then what?
@@ -95,19 +95,19 @@ Toph:: Sokka, I think we've gotta...
 Sokka &amp; Toph:: Jump!
 Fire Sage:: By decree of Phoenix King Ozai, I now crown you Fire Lord...
 Azula:: What are you waiting for? Do it!
-Zuko:: Sorry, but you're not going to become Fire Lord today.  I am.
-Azula::  You're hilarious.
-Katara::  And you're going down.
+Zuko:: Sorry, but you're not going to become Fire Lord today. I am.
+Azula:: You're hilarious.
+Katara:: And you're going down.
 Azula:: Wait. You want to be Fire Lord Fine. Let's settle this. Just you and me, brother. The showdown that was always meant to be. Agni Kai!
 Zuko:: You're on.
 Katara:: What are you doing? She's playing you. She knows she can't take us both so she is trying to separate us.
 Zuko:: I know. But I can take her this time.
 Katara:: But even you admitted to your Uncle that you would need help facing Azula.
 Zuko:: There's something off about her, I can't explain it but she's slipping. And this way, no one else has to get hurt.
-Azula:: I'm sorry it has to end this way, brother .
-Zuko::  No, you're not.
+Azula:: I'm sorry it has to end this way, .
+Zuko:: No, you're not.
 Zuko:: No lightning, today? What's the matter? Afraid I'll re-direct it?
-Azula:: Oh, I'LL SHOW YOU LIGHTNING!
-Zuko::  No!
+Azula:: Oh, I'LL YOU LIGHTNING!
+Zuko:: No!
 Katara:: Zuko!
-Ozai:: You're weak! Just like the rest of your people. They did not deserve to exist in this world, in my world. Prepare to join them. Prepare to die!
+Ozai:: You're weak! Just like the rest of your people. They did not deserve to exist in this world, in world. Prepare to join them. Prepare to die!

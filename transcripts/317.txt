@@ -16,7 +16,7 @@ Katara:: Don't worry, I'll tell your feet what's happening.
 Actress Katara::  Sokka, my only brother. We constantly roam these icy South Pole seas and yet never do we find anything fulfilling.
 Actor Sokka::  All I want is a full feeling in my stomach, I'm starving!
 Actress Katara:: Is food the only thing on your mind?
-Actor Sokka:: Well, I'm trying to get it out of my mind and  into my mouth. I'm starving.
+Actor Sokka:: Well, I'm trying to get it out of my mind and  into my mouth. I'm starving. .
 Sokka:: This is pathetic. My  jokes are way funnier than this.
 Toph::  I think he's got you pegged.
 Actress Katara:: Everyday, the World awaits a beacon to guide us, yet none appears. Still, we cannot give up hope.  For hope  is all we have  and we must never relinquish it. Even...  even to our dying breath.
@@ -83,7 +83,7 @@ Toph:: Wait a minute,  I sound like...  a guy. A really buff guy.
 Katara::  Well Toph, what you hear up there is the truth. It hurts, doesn't it?
 Toph::  Are you kidding me?  I wouldn't have cast it any other way. At least it's not a flying bald lady.
 Actress Aang:: So, you're blind?
-Actor Toph::  I can see you doing that.  I see everything  that you see except that I don't see like you do. I release  a sonic wave from my mouth.
+Actor Toph::  I can see you doing that.  I see everything  that you see except that I don't like you do. I release  a sonic wave from my mouth.
 Actor Toph:: There.  I got a pretty good look at you.
 Actor Uncle:: Zuko, it's time we had a talk.  About your hair.  It's gone too far.
 Actor Zuko:: Maybe it's best if we...  split up.
@@ -108,7 +108,7 @@ Actor Uncle::  Choose treachery, it's more fun.
 Actress Azula:: No way!
 Actor Zuko:: I hate you,  Uncle.  You smell and I hate you for all time.
 Katara:: You didn't really say that, did you?
-Zuko::  I might as well have.
+Zuko::  I might as well have. .
 Actress Aang:: Avatar State, yip yip.
 Actress Azula::  Not if my lightning can't help it!
 Actress Azula:: The Avatar is no more!
@@ -118,7 +118,7 @@ Suki:: Are you trying to get on my bad side?
 Sokka::  I'm just saying.
 Katara::  Does anyone know where Aang is?
 Sokka:: He left to get me fire gummies like, 10 minutes ago.  And I'm still waiting.
-Katara:: I'm going to check outside.
+Katara:: I'm going to check outside. .
 Katara::  Are you alright?
 Aang:: No, I'm not.  I hate this play.
 Katara::  I know it's upsetting but it sounds like you're overreacting.
@@ -179,13 +179,13 @@ Actress Azula::  Father, Zuko and the Avatar are at the palace. They're  trying 
 Actor Ozai::  You take care of Zuko.  I shall face the Avatar myself.
 Actor Zuko:: Aang, you fight the Fire Lord, I'll hold her off.
 Actress Azula::  You are no longer my brother.  You are an enemy.
-Actor Zuko::   No ,  I am the rightful heir to the throne!
+Actor Zuko::  I am the rightful heir to the throne!
 Actress Azula::  We'll see.
 Actor Zuko::  Honor!
 Actor Ozai::  So,  you have mastered all 4 elements
 Aang::  Yeah and now,  you're going down.
-Actor Ozai::  No, it is you who are going down.  You see, you are too late.  The comet is already here and  I'm unstoppable.
-Actress Aang::  Nooo...
+Actor Ozai::  No, it is who are going down.  You see, you are too late.  The comet is already here and  I'm unstoppable.
+Actress Aang::  Nooo... .
 Actress Azula:: It is over, Father.  We've done it.
 Actor Ozai::  Yes, we have done it!  The dreams of my Father,  and my Father's Father have now been realized.  The World  is mine.
 Zuko:: That... wasn't a good play.

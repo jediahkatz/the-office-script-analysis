@@ -46,12 +46,12 @@ Sokka::  What? Why would you want to know that?
 Zuko:: Katara mentioned it before when we were imprisoned together in Ba Sing Se and again just now when she was yelling at me. I think somehow... she's connected her anger about that to her anger at me.
 Sokka::  It's not a day I like to remember.
 Katara:: I'm going to find Mum.
-Sokka::  Many of the warriors  have seen the black snow before  and they knew what it meant.  A Fire Nation raid.
+Sokka:: Many of the warriors  have seen the black snow before  and they knew what it meant.  A Fire Nation raid.
 Sokka::  We were badly outnumbered.  But somehow, we managed to drive them off.  As quickly as they came,  they just left.  I was so relieved when it was over but, that's because I didn't know yet what have happened.  I didn't know we lost our Mother.
 Zuko:: Wait. Can you remember any details about the soldiers who raided your village Like, what the lead ship looked like?
 Sokka::  Yeah...  Sea Ravens. The main ship had flags with sea ravens on them.
 Zuko:: The symbol of The Southern Raiders. Thanks, Sokka.
-Sokka:: No problem.  Thanks for stopping by.  Thought he never leave.  Suki.
+Sokka:: No problem.  Thanks for stopping by.  Thought he never leave.
 Katara::  You look terrible.
 Zuko::  I waited out here all night.
 Katara:: What do you want?
@@ -96,7 +96,7 @@ Aang::  Why do you need Momo?
 Zuko::  We need to find the Fire Navy communication tower.  All the navy's movements are coordinated by messenger hawk. And every tower has to be up to date on where everyone is deployed.
 Katara::  So once  we find the communication tower, we bust in and take the information we need.
 Zuko::  Not exactly.  We need to be stealthy  and make sure no one spots us. Otherwise,  they'll warn The Southern Raiders. Long before we reach them.
-Zuko:: Okay,Southern Raiders.  There.  On patrol near Whale Tail Island.
+Zuko:: Okay,Southern Raiders. There.  On patrol near Whale Tail Island.
 Katara::  Whale Tail Island, here we come.
 Zuko::  You should get some rest. We'll be there in a few hours. You'll need all your strength.
 Katara:: Now, don't you worry about my strength. I have plenty.  I'm not the helpless little girl I was when they came.
@@ -112,7 +112,7 @@ Hakoda:: Kya!
 Katara:: But, we were too late. When we got there, the man was gone.  And so was she.
 Zuko::  Your Mother was a brave woman.
 Katara::  I know.
-Zuko:: There!  See those Sea Raven flags?   It's The Southern Raiders.
+Zuko:: There!  See those Sea Raven flags?  It's The Southern Raiders.
 Katara::  Let's do this.
 Soldier:: So there I was and I was like, you know, you could...
 Zuko:: This is it, Katara. Are you ready to face him?

@@ -1,3 +1,4 @@
+Katara:: Those clouds look so soft, don't they? Like you could just jump down and you'd land in a big, soft cottony heap.
 Sokka:: Maybe you should give it a try.
 Katara:: You're hilarious.
 Aang:: I'll try it! Yehhhh!
@@ -8,6 +9,7 @@ Sokka:: Listen, it's so quiet. There's no life anywhere.
 Katara:: Aang, are you ok?
 Sokka:: Fire Nation! Those evil savages make me sick! They have no respect for –
 Katara:: Shh!
+Sokka:: What? I'm not allowed to be angry?
 Aang:: Why would anyone do this? How could I let this happen?
 Katara:: Aang, you didn't let this happen. It has nothing to do with you.
 Aang:: Yes it does. It's the Avatar's job to protect nature. But, I don't know how to do my job.
@@ -15,11 +17,16 @@ Katara:: That's why we're going to the North Pole to find you a teacher.
 Aang:: Yeh, a waterbending teacher, but there's no one who can teach me how to be the Avatar. Monk Gyatso said that Avatar Roku would help me.
 Sokka:: The Avatar before you? He died over a hundred years ago, how are you supposed to talk to him?
 Aang:: I don't know.
+Zuko:: Uncle! It's time to leave! Where are you? Uncle Iroh!
+Iroh:: Over here.
 Zuko:: Uncle? We need to move on, we're closing in on the Avatar's trail and I don't want to lose him!
 Iroh:: You look tired, Prince Zuko. Why don't you join me in these hot springs and soak away your troubles.
+Zuko:: My troubles cannot be soaked away. It's time to go!
 Iroh:: You should take your teacher's advice and relax a little. The temperature's just right. I heated it myself.
 Zuko:: Enough! We need to leave now! Get out of the water!
+Iroh:: Very well.
 Zuko:: On second thought, why don't you take another few minutes, but be back at the ship in half an hour or I'm leaving without you.
+Iroh:: Ahhhh!
 Katara:: Hey Aang, are you ready to be cheered up?
 Aang:: No.
 Aang:: Ow!
@@ -27,38 +34,44 @@ Aang:: Hey, how was that cheering me up?
 Sokka:: Hehe, cheered me up.
 Sokka:: Ow! Yeh, I probably deserved that.
 Katara:: These acorns are everywhere, Aang. That means the forest will grow back. Every one of these will be a tall oak tree someday, and all the birds and animals that lived here will come back.
+Aang:: Thanks, Katara.
 Sokka:: Hey, who are you?
 Old Man:: When I saw the flying bison, I thought it was impossible, but those markings... are you the Avatar child?
 Old Man:: My village desperately needs your help.
 Old Man:: This young person is the Avatar.
 Chief:: So the rumors of your return are true.  It is the greatest honor of a lifetime to be in your presence.
+Aang:: Nice to meet you too. . So...is there something I can help you with?
+Chief:: I'm not sure...
 Old Man:: Our village is in crisis, he's our only hope. For the last few days at sunset a spirit monster comes and attacks our village. He is Hei-Bai, the black and white spirit.
 Sokka:: Why is it attacking you?
+Chief:: We do not know, but each of the last three nights he has abducted one of our own. We are especially fearful because the winter solstice draws near.
 Katara:: What happens then?
 Old Man:: As the solstice approaches, the natural world and the spirit world grow closer and closer until the line between them is blurred completely.
 Chief:: Hei-Bai is already causing devastation and destruction. Once the solstice is here there is no telling what will happen.
 Aang:: So, what do you want me to do exactly?
 Old Man:: Who better to resolve a crisis between our world and the spirit world than the Avatar himself? You are the great bridge between man and spirits.
+Aang:: Right...that's me.
 Katara:: Hey, ‘great bridge guy', can I talk to you over here for a second?
 Katara:: Aang, you seem a little unsure about all this.
-Aang:: Yeh, that might be because I don't know anything at all about the spirit world.  It's not like there's someone to teach me this stuff!
+Aang:: Yeh, that might be because I don't know anything at all about the spirit world. It's not like there's someone to teach me this stuff!
 Katara:: So, can you help these people?
 Aang:: I have to try, don't I? Maybe whatever I have to do will just... come to me.
 Katara:: I think you can do it, Aang.
 Sokka:: Yehhh, we're all gonna get eaten by a spirit monster.
 Iroh:: Uh? Who's there?
-Iroh:: A meadow vole! I should have known. You startled me, little one.  Ehh, seems I've dozed off and missed my nephew's deadline, but it was a very sweet nap.
+Iroh:: A meadow vole! I should have known. You startled me, little one. Ehh, seems I've dozed off and missed my nephew's deadline, but it was a very sweet nap.
 Soldier:: He's a Fire Nation soldier.
 Captain:: He's no ordinary soldier. This is the Fire Lord's brother, the Dragon of the West, the once great General Iroh, but now, he's our prisoner.
 Aang:: Hello? Spirit, can you hear me? This is the Avatar speaking. I'm... here to try to help stuff.
 Sokka:: This isn't right. We can't sit here and cower while Aang waits for some monster to show up.
 Old Man:: If anyone can save us, he can.
 Sokka:: He still shouldn't have to face this alone.
+Aang:: The sun has set. Where are you, Hei-Bai? Well, spirit, uh, I hereby ask you to please leave this village in peace!
 Aang:: Okay. Well, I guess that's settled then.
-Aang:: You must be the Hei-Bai spirit.  My name is...
+Aang:: You must be the Hei-Bai spirit. My name is...
 Aang:: My name is Aang! I'm the Avatar and I would like to help! Hey, wait up!
 Aang:: Uh...
-Chief:: The Avatar's methods are...  unusual.
+Chief:: The Avatar's methods are... unusual.
 Sokka:: It doesn't seem too interested in what he's saying. Maybe we should go help him?
 Old Man:: No, only the Avatar stands a chance against the Hei-Bai.
 Katara:: Aang will figure out the right thing to do, Sokka.
@@ -74,35 +87,41 @@ Aang:: I don't wanna fight him unless I – huh!
 Katara:: Sokka!
 Zuko:: Uncle! Uncle, where are you?
 Soldier:: Sir, maybe he thought you left without him?
-Zuko:: Something's not right here.  That pile of rocks...
+Zuko:: Something's not right here. That pile of rocks...
 Soldier:: It looks like there's been a landslide, sir.
 Zuko:: Land doesn't slide uphill. Those rocks didn't move naturally. My uncle's been captured by earthbenders!
 Sokka:: Aang, over here!
 Sokka:: Help!
 Aang:: Hang on, Sokka!
-Aang:: Sokka!  I failed.
+Aang:: Sokka! I failed.
 Iroh:: Where are you taking me?
 Captain:: We're taking you to face justice.
 Iroh:: Right. But where, specifically?
 Captain:: A place you're quite familiar with, actually. You once laid siege to it for 600 days, but it would not yield to you.
+Iroh:: Ah! The great city of Ba-Sing-Se.
 Captain:: It was greater than you were, apparently.
+Iroh:: I acknowledged my defeat at Ba-Sing-Se! After 600 days away from home, my men were tired and I was tired, and I'm still tired.
 Old Man:: I'm sure they'll be back.
 Katara:: I know.
+Old Man:: You should get some rest.
+Katara:: Everything's gonna be okay.
 Old Man:: Your brother is in good hands. I would be shocked if the Avatar returned without him.
 Aang:: Katara, Katara I lost him.
 Old Man:: The sun is rising. Perhaps he will return soon.
 Aang:: What? No, I'm right here! Grrr!!!
 Aang:: I'm in the spirit world!
 Zuko:: Yup, that's Uncle Iroh.
+Aang:: I'll figure this out, Katara, I promise. Like they said, I'm the bridge between the worlds, right? All I have to do is... figure out what I have to do. But once I do that, no problem!
 Aang:: Appa! Hey buddy, I'm right here. But, I guess you can't see me either.
 Katara:: It's ok, Appa. I'm sure they're on their way back. I bet they even found you a bunch of moon peaches for a treat.
 Aang:: What am I supposed to do?
+Aang:: Avatar Roku, how can I talk to you?
 Aang:: Sokka?
 Aang:: That's definitely not Sokka!
 Aang:: What? I can't airbend in the spirit world!
 Aang:: You don't know where Sokka is, do you?
 Aang:: You're Avatar Roku's animal guide! Like Appa is to me. I need to save my friend and I don't know how. Is there some way for me to talk to Roku?
-Aang:: I'll be back Katara.  Take me to Roku!
+Aang:: I'll be back Katara. Take me to Roku!
 Captain:: What's the problem?
 Iroh:: Nothing. Actually, there is a bit of a problem. My old joints are feeling sore and achy and these shackles are too loose.
 Captain:: Too loose?
@@ -111,12 +130,13 @@ Captain:: Very well. Corporal, tighten the prisoner's hand cuffs.
 Aang:: Hey, what are you doing!? Ahhhh!!!
 Aang:: I don't understand. This is just a statue of Roku.
 Aang:: Is that what Roku wants to talk to me about? A comet? When can I talk to him?
-Aang:: It's a calendar, and the light will reach Roku on the solstice!  So, that's when I'll be able to speak to Roku?  But I can't wait that long. I need to save Sokka now.
+Aang:: It's a calendar, and the light will reach Roku on the solstice! So, that's when I'll be able to speak to Roku? But I can't wait that long. I need to save Sokka now.
 Soldier:: He is too dangerous, Captain. We can't just carry him to the capital. We have to do something now.
 Captain:: I agree. He must be dealt with immediately and severely.
 Katara:: It's no use, Appa. I don't see them anywhere. Our best hope is to go back to the village and wait.
 Zuko:: The Avatar!
 Katara:: You're back! Where's Sokka?
+Aang:: I'm not sure.
 Captain:: These dangerous hands must be crushed.
 Iroh:: Excellent form, Prince Zuko.
 Zuko:: You taught me well.
@@ -128,9 +148,12 @@ Aang:: You're the spirit of this forest. Now I understand. You're upset and angr
 Katara:: Sokka!
 Sokka:: What happened?
 Katara:: You were trapped in the Spirit world for 24 hours. How are you feeling?
+Sokka:: Like I seriously need to use the bathroom!
 Chief:: Thank you, Avatar. If there only were a way to repay you for what you've done.
 Sokka:: You could give us some supplies and some money.
+Katara:: Sokka!
 Sokka:: What? We need stuff.
+Chief:: It would be an honor to help you prepare for your journey.
 Katara:: I'm so proud of you, Aang. You figured out what to do all on your own.
 Aang:: Actually, I did have a little help. And there's something else.
 Sokka:: What is it?

@@ -4,18 +4,24 @@ Aang:: Be careful guys! Guys?
 Aang:: Gyatso?
 Gyatso:: Why did you disappear?
 Aang:: I didn't mean to.
+Gyatso:: We need you, Aang.
 Many Voices:: We need you, Aang. We need you.
+Sokka:: Huh? Uh... what's going on? Did we get captured again?
 Aang:: It's nothing, I just had a bad dream. Go back to sleep.
 Sokka:: Don't have to tell me twice.
 Katara:: Are you all right, Aang?
 Aang:: I'm okay.
 Katara:: You seem to be having a lot of nightmares lately, you wanna tell me about it?
 Aang:: I think I just need some rest.
+Sokka:: You guys want to hear about my dream? That's ok, I didn't wanna talk about it anyway.
 Aang:: Look at those clear skies, buddy! Should be some smooth flying.
+Katara:: Well, we better smoothly fly ourselves to a market, cause we're out of food.
+Sokka:: Guys, wait, this was in my dream, we shouldn't go to the market.
 Katara:: What happened in your dream?
 Sokka:: Food eats people!
-Sokka:: Also, Momo could talk.  You said some very unkind things.
+Sokka:: Also, Momo could talk. You said some very unkind things.
 Iroh:: There is a storm coming. A big one.
+Zuko:: You're out of your mind, Uncle. The weather's perfect. There is not a cloud in sight.
 Iroh:: The storm is approaching from the north. I suggest we alter our course and head southwest.
 Zuko:: We know the Avatar is traveling northward, so we will do the same.
 Iroh:: Prince Zuko, consider the safety of the crew.
@@ -26,29 +32,46 @@ Shopkeeper:: Ah, it's good! It's perfect, I'm telling you!
 Katara:: I don't know if I like the sound of that swishing.
 Shopkeeper:: Swishing means it's ripe! It's the ripe juices swishing around, eh?
 Aang:: I think it's true, Katara, swishing means it's ripe.
+Katara:: I just realized we're out of money anyway.
+Shopkeeper:: Awww!
+Sokka:: Out of food and out of money, now what are we supposed to do?
 Katara:: You could get a job, smart guy.
 Old Woman:: We shouldn't go out there! Please, the fish can wait. There's going to be a terrible storm.
 Old Man:: Ahh, you're crazy! It's a nice day. No clouds, no wind, no nothing, so quit you're naggin' woman.
+Aang:: Maybe we should find some shelter?
 Sokka:: Are you kidding? Shelter from what?
 Old Woman:: My joints say there's going to be a storm! A bad one.
 Old Man:: Well, it's your joints against my brain.
 Old Woman:: Then I hope your brain can find someone else to haul that fish, cause I ain't comin!
 Old Man:: Then I'll find a new fish hauler and pay him double what you get! How do you like that?
+Sokka:: I'll go!
+Old Man:: You're hired!
+Sokka:: What? You said ‘get a job' and he's paying double.
+Old Man:: Double? Who told ya that nonsense?
 Lieutenant Jee:: Uh! Looks like your uncle was right about the storm after all.
+Iroh:: Lucky guess.
+Zuko:: Lieutenant, you'd better learn some respect, or I will teach it to you.
 Lieutenant Jee:: What do you know about respect? The way you talk to everyone around here, from your hard working crew to your esteemed uncle shows you know nothing about respect. You don't care about anyone but yourself! Then again, what should I expect from a spoiled prince?
+Iroh:: Easy now.
 Iroh:: Enough! We are all a bit tired from being at sea so long. I'm sure after a bowl of noodles everyone will feel much better.
+Zuko:: I don't need your help keeping order on my ship.
 Aang:: Sokka, maybe this isn't such a good idea. Look at the sky.
 Sokka:: I said I was gonna do this job. I can't back out just because of some bad weather.
-Old Man:: Boy with tattoos?  . Airbender tattoos...well I'll be a hogmonkey's uncle! You're the Avatar, ain't ya?
-Old Man:: Well don't be so smiley about it. The Avatar disappeared for a hundred years.  . You turned your back on the world!
+Old Woman:: The boy with the tattoos has some sense. You should listen to him!
+Old Man:: Boy with tattoos? . Airbender tattoos...well I'll be a hogmonkey's uncle! You're the Avatar, ain't ya?
+Katara:: That's right.
+Old Man:: Well don't be so smiley about it. The Avatar disappeared for a hundred years. . You turned your back on the world!
+Katara:: Don't yell at him! Aang would never turn his back on anyone!
 Old Man:: Oh? He wouldn't, uh? Then I guess I must have imagined the last hundred years of war and suffering.
 Katara:: Aang is the bravest person I know! He has done nothing but help people and save lives since I met him. It's not his fault he disappeared, right Aang? Aang? What's wrong?
 Old Man:: That's right! Keep flyin!
 Katara:: You're a horrible old man!
 Old Man:: Ehh.
+Katara:: Appa, yip! Yip!
 Sokka:: Hey, they left without saying goodbye!
 Old Man:: You're friends ain't too polite, are they?
 Sokka:: I know! This one time I was...
+Old Man:: Yeh, yeh, yeh, yeh, get below deck.
 Aang:: I'm sorry for running away.
 Katara:: It's ok. That fisherman was way out of line.
 Aang:: Actually, he wasn't.
@@ -63,10 +86,12 @@ Aang:: I was playing with some other kids just outside the south wall. I was try
 Aang:: First, you form a ball. Then you gotta get on quick.
 Older Boy:: Okay! Here goes!
 Aang:: Quick, get on!
-Older Boy:: Wh, wh, whoaaaa!  Ugh!
+Older Boy:: Wh, wh, whoaaaa! Ugh!
+Aang:: You kinda have to balance on it like it's a top.
 Older Boy:: Man, that's hard.
 Young Boy:: Where'd ya learn that trick, Aang?
 Aang:: I made it up.
+Young Boy:: Wow!
 Monk Gyatso:: Aang, come with us. We need to speak with you.
 Aang:: How do you know it's me?
 Elder Monk #4:: We have known you were the Avatar for some time. Do you remember these?
@@ -79,48 +104,65 @@ Abbot:: I fear that war may be upon us, young Avatar.
 Monk Gyatso:: We need you, Aang.
 Lieutenant Jee:: I'm sick of taking his orders and I'm tired of chasing his Avatar!
 Lieutenant Jee:: I mean who does Zuko think he is?
+Iroh:: Do you really want to know?
 Lieutenant Jee:: General Iroh! We were just –
+Iroh:: It's ok. May I join you?
 Lieutenant Jee:: Of course, sir!
 Iroh:: Try to understand, my nephew is a complicated young man. He has been through much...
+Zuko:: Let me in!
 Iroh:: Prince Zuko, what's wrong?
 Zuko:: I want to go into the war chamber, but the guard won't let me pass!
 Iroh:: You're not missing anything, trust me. These meetings are dreadfully boring.
 Zuko:: If I'm gonna rule this nation one day, don't you think I need to start learning as much as I can?
 Iroh:: Very well. But you must promise not to speak. These old folks are a bit sensitive, you know.
+Zuko:: Thank you uncle!
 General:: The Earth Kingdom defenses are concentrated here.
 General:: A dangerous battalion of their strongest earthbenders and fiercest warriors, so I am recommending the 41st division.
 Old General:: But the 41st is entirely new recruits. How do you expect them to defeat a powerful Earth Kingdom battalion?
+General:: I don't. They'll be used as a distraction while we mount an attack from the rear. What better to use as bait then fresh meat?
+Zuko:: You can't sacrifice an entire division like that! Those soldiers love and defend our nation! How can you betray them?
 Iroh:: Zuko was right, you see, but it was not his place to speak out, and there were... dire consequences.
 Katara:: So you were upset that you were the Avatar? Why wouldn't you be excited about it?
 Aang:: Well, I didn't know how to feel about it. All I knew is that after I found out, everything began changing...
 Aang:: Hey, not bad! You guys have been practicing!
+Young Boy:: Not only that, we made up a game you can play with the air scooters!
 Aang:: Great!
+Aang:: What's going on?
+Older Boy:: Now that you're the Avatar, it's kind of an unfair advantage for whichever team you're on.
+Aang:: But I'm still the same – nothing's changed. So, what, I can't play?
 Older Boy:: That's the only fair way.
+Aang:: Oh, ok.
 Young Boy:: Sorry, Aang.
 Older Boy:: Okay, now who wants to have Jinju on their team?
 Monk Gyatso:: Very interesting move, young one.
 Aang:: What do you mean?
+Aang:: Hey!
 Elder Monk #4:: You're playing games with him? The Avatar should be training.
 Monk Gyatso:: Aang has already trained enough for today.
 Elder Monk #4:: Time is short. Come with me. I must test you on some high level techniques.
 Monk Gyatso:: No, as long as I am his guardian, I will decide when he trains and when he gets his butt kicked at Pai Sho.
+Elder Monk #4:: Huh!
 Iroh:: After Zuko's outburst in the meeting, the Fire Lord became very angry with him. He said that Prince Zuko's challenge of the general was an act of complete disrespect, and there was only one way to resolve this...
+Lieutenant Jee:: Agni kai. A fire duel.
 Iroh:: That's right. Zuko looked upon the old general he had insulted and declared that he was not afraid. But Zuko misunderstood. When he turned to face his opponent, he was surprised to see it was not the General. Zuko had spoken out against a general's plan, but by doing so in the Fire Lord's war room, it was the Fire Lord whom he had disrespected. Zuko would have to duel his own father.
 Aang:: Then, just when I was starting to feel better, something worse happened.
 Monk Gyatso:: Aang needs to have freedom and fun. He needs to grow up as a normal boy.
 Elder Monk #4:: Humph! You cannot keep protecting him from his destiny.
 Abbot:: Gyatso, I know you mean well, but you are letting your affection for the boy cloud your judgment.
 Monk Gyatso:: All I want is what is best for him.
-Abbot:: But what we need is what's best for the world.  You and Aang must be separated. The Avatar will be sent away to the Eastern Air Temple to complete his training.
+Abbot:: But what we need is what's best for the world. You and Aang must be separated. The Avatar will be sent away to the Eastern Air Temple to complete his training.
 Katara:: That's awful, Aang. I don't know what to say.
 Aang:: How could they do that to me! They wanted to take away everything I knew and everyone I loved!
 Katara:: Whoa! Hot cinders!
+Aang:: I'm sorry I got so mad.
 Katara:: You have a right to be angry after the monks sent you away like that.
 Aang:: Well, that's not exactly what happened...
+Aang:: I was afraid and confused. I didn't know what to do.
 Monk Gyatso:: Aang, I'm not going to let them take you away from me. Aang?
 Aang:: I never saw Gyatso again.
 Aang:: Next thing I knew, I was waking up in your arms after you found me in the iceberg.
 Katara:: You ran away.
+Aang:: And then the Fire Nation attacked our temple. My people needed me and I wasn't there to help.
 Katara:: You don't know what would've –
 Aang:: The world needed me and I wasn't there to help.
 Katara:: Aang...
@@ -131,38 +173,49 @@ Katara:: I know it's meant to be this way. The world needs you now. You give peo
 Iroh:: When Prince Zuko saw that it was his father who had come to duel him, he begged for mercy...
 Zuko:: Please, father, I only had the fire nation's best interest at heart! I'm sorry I spoke out of turn!
 Fire Lord Ozai:: You will fight for your honor.
+Zuko:: I meant you no disrespect. I am your loyal son.
 Fire Lord Ozai:: Rise and fight, Prince Zuko!
 Zuko:: I won't fight you.
-Fire Lord Ozai:: You will learn respect, and suffering will be your teacher. , General Iroh, looking fearful for his nephew, and a cruel looking young girl in a soldier's uniform who is clearly hoping for the worst to befall Prince Zuko. This is Azula, Zuko's sister, as the audience learns at the end of the season finale for Book One. She raises her left fist in anticipation of the disgrace her brother is undergoing. Iroh's looks away in despair.)
+Fire Lord Ozai:: You will learn respect, and suffering will be your teacher.
 Iroh:: I looked away.
+Lieutenant Jee:: I always thought that Prince Zuko was in a training accident...
 Iroh:: It was no accident. After the duel, the Fire Lord said that by refusing to fight, Zuko had shown shameful weakness. As punishment he was banished and sent to capture the Avatar. Only then could he return with his honor.
 Lieutenant Jee:: So that's why he's so obsessed. Capturing the Avatar is the only chance he has of things returning to normal.
 Iroh:: Things will never return to normal. But the important thing is, the Avatar gives Zuko hope.
 Old Woman:: Help! Oh, please help!
+Katara:: It's ok, you're safe.
 Old Woman:: But, my husband isn't.
 Katara:: What do you mean? Where's Sokka?
 Old Woman:: They haven't returned. They should've been back by now, and this storm is becoming a typhoon. They're caught out at sea.
+Aang:: I'm going to find them.
 Katara:: I'm going with you.
 Old Woman:: I'm staying here!
+Aang:: We'll be back soon, I promise.
 Zuko:: Where were we hit?
 Lieutenant Jee:: I don't know!
 Iroh:: Look!
 Zuko:: The helmsman!
 Katara:: Where are they?
 Aang:: Come on, Appa!
+Aang:: The boat! It's there!
 Zuko:: The Avatar!
 Lieutenant Jee:: What do you want to do, sir?
+Zuko:: Let him go. We need to get this ship to safety.
 Iroh:: Then we must head directly into the eye of the storm.
 Sokka:: I'm too young to die!
 Old Man:: I'm not, but I still don't wanna!
 Aang:: Hang on to the rope!
 Zuko:: Uncle, I am sorry.
-Old Woman:: Oh, you're alive!  You owe this boy an apology.
+Iroh:: Your apology is accepted.
+Old Woman:: Oh, you're alive! You owe this boy an apology.
 Aang:: He doesn't have to apologize.
 Old Man:: Mmm, uh, what if instead of an apology I give him a free fish and we call it even?
 Aang:: Actually, I don't eat meat.
 Old Man:: Fish ain't meat.
+Sokka:: Seriously, you're still gonna pay me, right?
 Aang:: Katara, I think you were right before. I'm done dwelling on the past. Katara: Really?
 Aang:: I can't make guesses about how things would have turned out if I hadn't run away. I'm here now and I'm going to make the most of it.
+Katara:: I don't think you're gonna have those nightmares anymore.
+Old Man:: Uh, if you weren't here now, well, I guess I wouldn't be either. Thank you for saving my life, Avatar.
 Sokka:: Do you hear that? It's stopped raining.
 Everyone:: Appa!

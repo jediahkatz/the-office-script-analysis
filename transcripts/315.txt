@@ -38,7 +38,7 @@ Sokka:: Then we'd better find two.
 Sokka:: Zuko, are you there?
 Zuko::  I'm here.
 Sokka:: I just got done talking to my Dad. We came up with an escape plan together.
-Male Guard::  What  are you doing here?
+Male Guard:: What  are you doing here?
 Sokka::  I was just  telling this dirty lowlife what I think of him!
 Male Guard::  Well, you'll have to do that later, he's coming with us.
 Sokka::  Why?
@@ -55,7 +55,7 @@ Mai::  Come on  Zuko.  We all know  that's a lie.
 Zuko::  Mai.
 Warden:: How is he?
 Guard:: I think he's ready to talk.
-Warden::  Have you had enough time to think about what I asked?
+Warden::  Have you had enough time to about what I asked?
 Chit Sang:: Yes.
 Warden:: And?
 Chit Sang:: You're right. There was another person involved in the escape plan.
@@ -81,7 +81,7 @@ Sokka:: My dad and I came up with a plan together. We're gonna commandeer the go
 Suki::  We'll never make it onto the gondola. There's too many guards.
 Sokka:: My dad already thought of that. He said we'll need a distraction. That's why we're gonna start a prison riot.
 Suki::  Okay. Let's say by some miracle this all works and we make it on the gondola. The Warden will still just cut the lines, even if we have a captive.
-Sokka:: Not if the Warden is the captive.  I have to go.  I'll find you before we start the riot.
+Sokka:: Not if the Warden the captive.  I have to go.  I'll find you before we start the riot.
 Male Guard::  Hey you!  The Warden wants to see you.
 Sokka::  Why?
 Male Guard:: I don't know. I didn't ask.
@@ -107,7 +107,7 @@ Warden::  How do you know?
 Azula::  Because I'm a people person.
 Sokka::  Hey, I just got orders. Let the prisoners out into the yard.
 Guard::  But we're in the middle of lockdown.
-Sokka:: Oh, okay.  I'll just go tell the Warden you said that. I'm sure  he'll be glad to hear about you undermining his authority.  What's your name again?
+Sokka:: Oh, okay.  I'll just go tell the Warden you said that. I'm sure  he'll be to hear about you undermining his authority.  What's your name again?
 Guard::  Wait. Don't tell the Warden, I... I'm just a little confused.
 Sokka::  Hey, I'm confused too.  But the Warden's in a bad mood and irrational. So if you ask me,  it's best not to question it and just do what he says.
 Guard:: Yeah, you're right.  We're letting them out.
@@ -159,12 +159,12 @@ Guard #2::  He wants us to cut the line.
 Guard #3::  But if we cut the line, there's no way he'll survive.
 Guard #1::  He knows that.
 Ty Lee:: They're about to cut the line!
-Azula::  Then it's time to leave.  Goodbye Zuko.
+Azula::  Then it's time to leave.  Goodbye Zuko.  .
 Zuko:: They're cutting the line. The gondola's about to go!
 Hakoda:: I hope this thing floats.
 Guard:: What are you doing?!
 Mai::  Saving the jerk who dumped me.
-Sokka::  Who is that?
+Sokka::  Who is that? .
 Zuko::  It's Mai.
 Azula::  What is she doing?!
 Hakoda::  Sorry Warden, your record is officially broken.

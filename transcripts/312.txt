@@ -7,7 +7,7 @@ Haru::  They're probably on their way to a prison. Seems like my dad just got ou
 The Duke:: I miss Pipsqueak.
 Sokka:: I miss not having blisters  on my feet.
 Toph:: Hey, we're here. I can feel it.
-Katara::  Uh, I think your feet need their eyes checked.
+Katara:: Uh, I think your feet need their eyes checked.
 Aang::  No,  she's right,  we are here.
 Toph:: Wow,  it's amazing.
 Iroh::  What a stunning view.
@@ -15,16 +15,16 @@ Zuko:: The only view I'm interested in seeing  is the Avatar in chains.
 Iroh::  You know,  the Avatar hasn't been seen for a 100 years.  The chances of finding him here are very slim.
 Zuko:: First, we'll check each of the air temples.  Then we'll scour the world, searching even the most remote locations until we find him.
 Iroh::  Prince Zuko, it's only been a week since your banishment.  You should take some time to heal and rest.
-Zuko::  What else would I expect to hear from the laziest man in the Fire Nation ?  The only way  to regain my honor is to find the Avatar. So I will.
+Zuko::  What else would I expect to hear from the man in the ?  The only way  to regain my honor is to find the Avatar. So I will.  . .
 Teo:: It's so different from the Northern Air Temple.  I wonder if there are any secret rooms.
 Haru::  Let's go check it out.
 Katara:: You guys go...  I think we need to talk about some things.
 Haru:: I'll race you, Duke.
-The Duke::  I told you, it's " The Duke."
+The Duke::  I told you, it's " Duke."
 Aang:: Why can't I go?
 Katara::  We need to decide what we're gonna do now. And since you're the Avatar, maybe you should be a part of this.
 Aang:: Fair enough. So, what's the new plan?
-Sokka:: Well, if you ask me, the new plan is the old plan. You just need to master all four elements, and confront the Fire Lord before the comet comes.
+Sokka:: Well, if you ask me, the plan is the plan. You just need to master all four elements, and confront the Fire Lord before the comet comes.
 Aang::  Oh, yeah, that's great.  No problem,  I'll just do that.
 Katara:: Aang, no one said it's gonna be easy.
 Aang::  Well, it's not even gonna be possible. Where am I supposed to get a firebending teacher?
@@ -59,7 +59,7 @@ Katara::  Or when you stole my mother's necklace  and used it to track us down  
 Zuko::  Look, I admit I've done some awful things. I was wrong  to try to capture you, and I'm sorry that I attacked the Water Tribe.  And I never should've sent that Fire Nation assassin after you.  I'm gonna try to stop him.
 Sokka::  Wait, you sent  Combustion Man after us?
 Zuko::  Well, that's not his name, but...
-Sokka::  Oh, sorry .  I didn't mean to insult your friend.
+Sokka::  Oh, .  I didn't mean to insult your friend.
 Zuko::  He's not my friend!
 Zuko::  Why aren't you saying anything?  You once said you thought we could be  friends.  You know I  have good in me.
 Aang:: There's no way we can trust you after everything you've done.  We'll never let you join us.
@@ -68,23 +68,23 @@ Zuko::  I'm trying to explain  that I'm not that person anymore.
 Sokka:: Either you leave, or we attack.
 Zuko::  If you won't accept me as a friend,  then maybe you'll take me  as a prisoner.
 Katara::  No, we won't!
-Katara::  Get out of here  and don't come back. And if we ever see you again...Well,  we'd better not see you again!
-Zuko:: Argh, I can't believe how stupid  I am. I mean,  what was I thinking?  Telling them I sent an assassin after them? Why didn't I just say Azula  did that? They  would've believed that. Stupid!
+Katara::  Get out of here  and don't come back. And if we ever see you again...Well,  we'd better not see you again!  . .
+Zuko:: Argh, I can't believe how  I am. I mean,  what was I thinking?  Telling them I sent an assassin after them? Why didn't I just say Azula  did that? They  would've believed that. Stupid!
 Katara:: Why would he try to fool us like that?
 Sokka:: Obviously, he wants to lead us into some kind of trap.
 Katara:: This is just like when we were in prison together in Ba Sing Se.  He starts talking about his mother,  and making it seem like he's an actual human being with feelings.
-Sokka:: He wants you  to trust him and feel sorry for him, so you let your guard down, then he strikes.
+Sokka:: He wants you to trust him and feel sorry for him, so you let your guard down, he strikes.
 Katara::  The thing is, it worked.  I did feel sorry for him. I felt like he was really confused and hurt.  But obviously when the time came,  he made his choice, and we paid the price.  We can't trust him.
 Aang::  I kind of  have a confession to make.  Remember when you two were sick and I got captured by  Zhao?
 Sokka::  And you made us suck on frozen frogs? How could I forget?  I had a wart on the flap that hangs down from the back of my throat for a month!
 Katara::  Sokka,  I looked at it and told you there was nothing there.
-Sokka::  I could feel it! It's my throatal flap.
-Aang:: Anyway, when Zhao had me chained up, it was Zuko  who came in and got me out.  He risked his life to save me.
+Sokka::  I could feel it! It's throatal flap.
+Aang:: Anyway, when Zhao had me chained up, it was  who came in and got me out.  He risked his life to save me.
 Katara:: No way,  I'm sure  he only did it  so he could capture you himself.
 Sokka:: Yeah,  face it Aang. You're nothing but a big prize to him.
 Aang:: You're probably right.
 Katara:: And what was  all that crazy stuff about setting Appa free?  What a liar.
-Toph::  Actually,  he wasn't lying.
+Toph:: Actually,  he wasn't lying.
 Sokka::  Oh, hooray.  In a lifetime of evil, at least  he didn't add animal cruelty to the list.
 Toph::  I'm just saying that  considering his messed-up family, and how he was raised, he could've turned out a lot worse.
 Katara:: You're right,  Toph, let's go find him  and give him a medal.  The "not as much of a jerk as you could have been" award.
@@ -92,73 +92,73 @@ Toph::  All I know is that while he was talking to us, he was sincere. Maybe  yo
 Katara::  Easy for you to say, you weren't there  when he had us attacked by pirates.
 Sokka::  Or when he burned down Kyoshi Island.
 Aang:: Or when he tried to capture me  at the fire temple.
-Katara:: Why would you  even try to defend him?
-Toph::  Because Katara,  you're all ignoring  one crucial fact. Aang needs  a firebending teacher. We can't think  of a single person in the world to do the job.  Now one shows up on a silver platter,  and you  won't even think  about it?
+Katara:: Why would you  even to defend him?
+Toph::  Because Katara,  you're all ignoring  one crucial fact. Aang needs  a firebending teacher. We can't think  of a person in the world to do the job.  and you  won't even think  about it?
 Aang:: I'm not having Zuko as my teacher.
 Sokka:: You're darn right  you're not, buddy.
 Katara:: Well,  I guess that's settled.
-Toph::  I'm beginning to wonder who's really the blind one  around here.
+Toph::  I'm beginning to wonder who's the blind one  around here.
 Zuko:: Who's there?  Stay back.
 Toph::  It's me! style="mso-spacerun: yes">  Ow!
 Toph:: You burned my feet!
 Zuko::  I'm sorry, it was a mistake!
 Toph::  Get away  from me!
 Zuko:: Let me  help you.  I'm sorry.
-Toph:: Get off me,  get off me!
+Toph:: Get me,  get off me!
 Zuko::  I didn't know it was you.  Come back!  Why am I so bad at being good?
-Katara::  Has anyone seen Toph?
+Katara:: Has anyone seen Toph?
 Sokka:: I haven't seen her since she stormed off yesterday.
 Haru:: Maybe she's just exploring the air temple. There are some pretty fun spots to practice earthbending.
-Katara::  I think we should go look for her.
+Katara:: I think we should go look for her.
 Sokka:: Oh, let her have fun with her rocks. I'm in no rush to have her yelling at us again.
 The Duke:: We can go check for her.
-Teo::  Yeah, I want to ride that tunnel down to the hall of statues again. It'll work a lot better now that I fixed my brakes.
+Teo:: Yeah, I want to ride that tunnel down to the hall of statues again. It'll work a lot better now that I fixed my brakes.
 Katara:: Toph, what happened?
 Toph:: My feet got burned.
-Katara::  Oh, no, what happened?
-Toph::  I just told you, my feet got burned.
+Katara:: Oh, no, what happened?
+Toph:: I just told you, my feet got burned.
 Katara:: I meant how.
 Toph:: Well, I kind of went to see Zuko last night.
-Aang::  You what!?
-Katara::  Zuko?
-Sokka::  Ugh!
+Aang:: You what!?
+Katara:: Zuko?
+Sokka:: Ugh!
 Toph:: I just thought he could be helpful to us. And if I talked to him, maybe we could work something out.
 Aang:: So he attacked you?
 Toph:: Well, he did and he didn't. It was sort of an accident.
-Aang:: But he did firebend at you?
+Aang:: But he firebend at you?
 Toph:: Yes.
 Sokka:: See, you trusted Zuko and you got burned... literally.
-Katara::  It's gonna take a while for your feet to get better. I wish I could've worked on them sooner.
+Katara:: It's gonna take a while for your feet to get better. I wish I could've worked on them sooner.
 Toph:: Yeah, me too.
 Sokka:: Zuko's clearly too dangerous to be left alone. We're gonna have to go after him.
-Aang::  I hate to go looking for a fight, but you're right. After what he did to Toph, I don't think we have a choice.
+Aang:: I hate to go looking for a fight, but you're right. After what he did to Toph, I don't think we have a choice.
 Sokka:: He's crafty, but we'll find a way to capture him.
-Toph::  Maybe just invite him back here. He's already offered himself up as a prisoner once.
-Sokka:: Yeah... get him to come back and say he'll be our prisoner. Then we'll jump him and really make him our prisoner. He'll never suspect it.
-Katara:: You are a master of surprise, Sokka. (Sokka and Aang carry Toph off screen and Katara follows them. Cut to a close up of the edge of the fountain water as Sokka and Aang set Toph down on it, letting her dip her feet in the water.
+Toph:: Maybe just invite him back here. He's already offered himself up as a prisoner once.
+Sokka:: Yeah... get him to come back and say he'll be our prisoner. Then we'll jump him and make him our prisoner. He'll never suspect it.
+Katara:: You are a master of surprise, Sokka.
 Toph:: Ahh, that's the stuff. Now I know how the rest of you guys feel. Not being able to see with your feet stinks.
-Zuko::  Stop!  I don't want you hunting the Avatar anymore.
+Zuko:: Stop! I don't want you hunting the Avatar anymore.
 Zuko:: The mission is off. I'm ordering you to stop!
-Zuko:: If you keep attacking, I won't pay you!  All right, I'll pay you double to stop!
-Toph::  He's going to blast this whole place right off the cliff side.
+Zuko:: If you keep attacking, I won't pay you! All right, I'll pay you double to stop!
+Toph:: He's going to blast this whole place right off the cliff side.
 Katara:: I can't step out to waterbend at him without getting blown up. And I can't get a good enough angle on him from down here.
-Sokka::  I know how to get an angle on him.
+Sokka:: I know how to get an angle on him.
 Sokka:: All right buddy, don't fail me now.
-Sokka::  Yeah, boomerang!  Aw, boomerang...
+Sokka:: Yeah, boomerang! Aw, boomerang...
 Aang:: I can't believe I'm saying this... but thanks Zuko.
 Sokka:: Hey, and what about me? I did the boomerang thing.
-Zuko::  Listen, I know I didn't explain myself very well yesterday. I've been through a lot in the past few years, and it's been hard. But I'm realizing that I had to go through all those things to learn the truth. I thought I had lost my honor, and that somehow my father could return it to me. But I know now that no one can give you your honor. It's something you earn for yourself, by choosing to do what's right. All I want now is to play my part in ending this war. And I know my destiny is to help you restore balance to the world.
-Zuko:: I'm sorry for what I did to you.  It was an accident. Fire can be dangerous and wild. So as a firebender, I need to be more careful and control my bending so I don't hurt people unintentionally.
-Aang:: I think you are supposed to be my firebending teacher. When I first tried to learn firebending, I burned Katara. And after that, I never wanted to firebend again. But now I know you understand how easy it is to hurt the people you love.  I'd like you to teach me.
+Zuko:: Listen, I know I didn't explain myself very well yesterday. I've been through a lot in the past few years, and it's been hard. But I'm realizing that I had to go through all those things to learn the truth. I thought I had lost my honor, and that somehow my father could return it to me. But I know now that no one can give you your honor. It's something you earn for yourself, by choosing to do what's right. All I want now is to play my part in ending this war. And I know my destiny is to help you restore balance to the world.
+Zuko:: I'm sorry for what I did to you. It was an accident. Fire can be dangerous and wild. So as a firebender, I need to be more careful and control my bending so I don't hurt people unintentionally.
+Aang:: I think you supposed to be my firebending teacher. When I first tried to learn firebending, I burned Katara. And after that, I never wanted to firebend again. But now I know you understand how easy it is to hurt the people you love. I'd like you to teach me.
 Zuko:: Thank you. I'm so happy you've accepted me into your group.
 Aang:: Not so fast. I still have to ask my friends if it's ok with them. Toph, you're the one that Zuko burned. What do you think?
-Toph::  Go ahead and let him join. It'll give me plenty of time to get back at him for burning my feet.
+Toph:: Go ahead and let him join. It'll give me plenty of time to get back at him for burning my feet.
 Aang:: Sokka?
-Sokka::  Hey, all I want is to defeat The Fire Lord. If you think this is the way to do it, then I'm all for it.
+Sokka:: Hey, all I want is to defeat The Fire Lord. If you think this is the way to do it, then I'm all for it.
 Aang:: Katara?
-Katara:: I'll go along with whatever you think is right.
-Zuko::  I won't let you down, I promise.
-Sokka:: So here you go, home sweet home. I guess, you know, for now.  Unpack... lunch soon. Uh...welcome aboard?  Yeah.  Ok, this is really, really weird.
+Katara:: I'll go along with whatever think is right.
+Zuko:: I won't let you down, I promise.
+Sokka:: So here you go, home sweet home. I guess, you know, for now. Unpack... lunch soon. Uh...welcome aboard? Yeah. Ok, this is really, really weird.
 Zuko:: If I have to, I will spend every day of the rest of my life hunting the Avatar. I know it's my destiny to capture him.
 Iroh:: You know, Prince Zuko, destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind and an open heart, I promise you will find your own destiny someday.
-Katara::  You might have everyone else here buying your " transformation". But you and I both know you've struggled with doing the right thing in the past.  So let me tell you something right now. You make one step backward, one slip-up, give me one reason to think you might hurt Aang... and you won't have to worry about your destiny anymore. Because I'll make sure your destiny ends right then and there... permanently .
+Katara:: You might have everyone else here buying your " But you and I both know you've struggled with doing the right thing in the past. So let me tell you something right now. You make one step backward, one slip-up, give me one reason to think you might hurt Aang... and you won't have to worry about your destiny anymore. Because I'll make sure your destiny ends right then and there... .

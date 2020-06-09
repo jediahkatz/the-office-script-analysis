@@ -10,16 +10,20 @@ def scrape_episode(ep_num):
     url = f'http://atla.avatarspirit.net/transcripts.php?num={ep_num}'
     html = urlopen(url)
     soup = BeautifulSoup(html.read(), features='lxml')
+    return clean_transcript(soup)
+
+def clean_transcript(script_soup):
+    """Strip out everything but dialogue and character names and return a list of lines."""
     script_text = ' '.join([
-        t for line in soup.find('blockquote').children \
-        if (t:=(str(line).strip().replace('\r', '').replace('</b>', ':') \
-        if line.name=='b' or not hasattr(line, 'get_text') else line.get_text()))
+        t for line in script_soup.find('blockquote').children
+        if (t:=(
+            '' if line.name=='i'
+            else str(line).strip().replace('\r', '').replace('</b>', ':')
+                if line.name=='b' or not hasattr(line, 'get_text') 
+            else line.get_text()
+        ))
     ])
     script_lines = script_text.split('<b>')
-    return clean_transcript(script_lines)
-
-def clean_transcript(script_lines):
-    """Strip out everything but dialogue and character names."""
     # Remove everything before Act I begins
     try:
         act_i_idx = next(i for i in range(len(script_lines)) if 'Act I' in script_lines[i])
@@ -31,10 +35,14 @@ def clean_transcript(script_lines):
 
     script_lines = [
         re.sub('([\(\[]).*?([\)\]])', '',           # Remove all text in parens/brackets
-        re.sub('Act (I+|I*VI*|I*XI*)', '', l))      # Remove "Act _"
+        re.sub(r'\([^()]*\)', '',                   # Sometimes it's even doubly nested
+        re.sub('Act (I+|I*VI*|I*XI*)', '', line)))  # Remove "Act _"
+        .replace('(', '').replace(')', '')          # Sometimes they forget to properly close parens...
         .strip() for line in script_lines
-        if '::' in (l := line.replace(': :', '::')) # Remove any stray lines without dialogue
-                                                    # (negligible cases of two people speaking at once)
+    ]
+    # Remove any stray lines without dialogue (negligible cases of two people speaking at once)
+    script_lines = [
+        l for line in script_lines if '::' in (l := line.replace(': :', '::')) 
     ]
     return (f'{l.strip()}\n' for l in script_lines)
 

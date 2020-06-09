@@ -16,7 +16,7 @@ Zuko:: Trust me. Knowing would just make you feel worse.
 Sokka:: It's my Dad. He was captured too. I need to know what I put him through.
 Zuko:: It's not good Sokka.
 Sokka:: Please.
-Zuko::  My guess is...  They were taken to the Boiling Rock.
+Zuko::  My guess is... They were taken to the Boiling Rock.
 Sokka::  What's that?
 Zuko::  The highest security prison in the Fire Nation.  It's on an island in the middle of a boiling lake.  It's inescapable.
 Sokka:: So where is this place?
@@ -28,7 +28,7 @@ Zuko:: Yeah, I'm sure it does.
 Zuko:: Not up to anything, huh?
 Sokka:: Fine, you caught me. I'm gonna rescue my Dad.  You happy now?
 Zuko:: I'm never happy.
-Sokka:: Look, I have to do this. The invasion plan was my idea. It was my decision to stay when things were going wrong.  It's my mistake and it's my job to fix it.  I have to regain my honor. You can't stop me Zuko.
+Sokka:: Look, I have to do this. The invasion plan was idea. It was decision to stay when things were going wrong.  It's my mistake and it's my job to fix it.  I have to regain my honor. You can't stop me Zuko.
 Zuko:: You need to regain your honor? Believe me, I get it. I'm going with you.
 Sokka::  No. I have to do this alone.
 Zuko:: How are you going to get there? On Appa? Last time I checked,  prisons don't have bison day cares.
@@ -57,7 +57,7 @@ Sokka::  My first girlfriend turned into the Moon.
 Zuko::  That's rough buddy.
 Zuko:: There it is.
 Zuko:: There's plenty of steam to keep us covered. As long as we're quiet we should be able to navigate through it without being caught.
-Zuko:: We're going down. The balloon's not working anymore!
+Zuko:: We're going down. The balloon's not working anymore!  .
 Sokka:: The air outside is just as hot as the air inside so we can't fly.
 Zuko:: So what are we supposed to do?
 Sokka::  I don't know. Crash landing?
@@ -99,7 +99,7 @@ Female Guard::  No, you can't date the female guards.
 Male Guard::  Trust me, you don't want to.
 Zuko::  No, that's not it. The Boiling Rock, it holds the Fire Nation's most dangerous criminals right? So what about war prisoners?
 Sokka:: It sure looks cold in there.
-Bully Guard:: That's why we call it the Cooler .  He won't be firebending in there.  It's the Warden. Look alive.
+Bully Guard:: That's why we call it .  He won't be firebending in there.  It's the Warden. Look alive.
 Warden:: So Chit Sang, I hear you used firebending to try to escape. You should know better.
 Chit Sang::  I wasn't trying to escape.
 Bully Guard::  He's lying.  I saw him with my own eyes.
@@ -116,7 +116,7 @@ Zuko:: Err,  what would Uncle say?  Sometimes clouds have two sides, a dark and 
 Sokka:: Maybe we haven't failed after all.
 Zuko:: That's the spirit. I can't believe  that worked. I didn't even know what I was saying.
 Sokka:: No, what you said made no sense at all. But look,  it's Suki!
-Guard::   Prisoners!  Back in your cells!
+Guard:: Prisoners!  Back in your cells!
 Suki::  What is it?  Did I do something wrong?
 Sokka::  You mean you don't recognize me?
 Suki:: You people all look the same to me.
@@ -125,18 +125,18 @@ Suki:: Sokka,  it's you.
 Sokka::  The other Kyoshi Warriors, are they here?
 Suki:: No,  I don't know where they are. They locked me here because I'm the leader.
 Sokka:: Well, you  won't be here for long, I'm busting you out.
-Suki::  I'm so glad  to see you Sokka. I knew you'd come.
+Suki::  I'm so glad  to see you Sokka. I knew you'd come. .
 Female Guard:: 'Scuse me, I need to get into that cell.
 Zuko:: No, you can't go in there.  The lights are out... the prisoner  could sneak up on you.
 Female Guard:: Step aside, fool.  Hey! Hey! What are you doing?
 Female Guard:: Guard,  help!  I think he's an imposter!  Argh! Arrest him!
 Female Guard:: Get him off me and arrest him!
 Sokka:: You're under arrest!  Don't worry, I'll figure it out.
-Warden:: Well, well, well.  I never thought I'd find you in here, Prince Zuko .
+Warden:: Well, well, well.  I never thought I'd find you in here, .
 Zuko::  How did you know who I am?
 Warden:: How could I not?  You broke my niece's heart.
 Zuko::  You're Mai's uncle?  I never meant to hurt her.
-Warden::  Quiet! You're my special prisoner now. And you best behave. If these criminals found out who you are, the traitor prince who let his nation down. Why, they'd tear you to shreds.
+Warden::  Quiet! You're my prisoner now. And you best behave. If these criminals found out who you are, the traitor prince who let his nation down. Why, they'd tear you to shreds.
 Zuko:: So what's in it for you? Why don't you just tell my Father and collect the reward.
 Warden::  Oh in due time believe me, I intend to collect.
 Sokka::  Oh, good. You guys have met.
@@ -159,13 +159,13 @@ Zuko:: Yeah, you heard wrong.
 Chit Sang:: I heard you hatching an escape plan and I want in.
 Zuko:: There's nothing to get in on.
 Sokka:: Yeah, the only thing we're hatching is... an egg?
-Chit Sang:: Ok, well, I come with you or the Warden  hears about this egg too.
+Chit Sang:: Ok, well, I come with you or the Warden  hears about this too.
 Suki::  I guess we have no choice.
 Sokka:: Okay, you're in. Now, first we need someone  to unbolt the Cooler.  From the inside.
 Chit Sang::  Oh, I can get you inside.
 Chit Sang:: Ugh. Hey, what are you, stupid  Watch where you're going!
 Zuko:: Hey, you watch who you're shoving.
-Chit Sang:: I think you mean whom I'm shoving.
+Chit Sang:: I think you mean I'm shoving.
 Sokka::  I need backup over here.
 Guard:: No firebending.  Into the cooler.
 Sokka:: I can take you back to your cell if you've learned your lesson.
@@ -190,7 +190,7 @@ Zuko::  No, it's not. Look Sokka, you're going to fail a lot before things work 
 Sokka::  That's supposed to make me feel better?
 Zuko:: Even though you'll probably fail over and over and over again.
 Sokka:: Seriously, not helping.
-Zuko::  You have to try every time. You can't quit because you're afraid you might fail.
+Zuko::  You have to every time. You can't quit because you're afraid you might fail.
 Chit Sang::  Hey,  if you two are done cuddling, can we get a move on?
 Sokka:: No, I'm staying.  You guys go.  You've been here long enough.
 Suki::  I'm not leaving without you, Sokka.

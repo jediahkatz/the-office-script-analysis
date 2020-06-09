@@ -1,31 +1,47 @@
 Aang:: Hey look! A sword made out of a whale's tooth.
-Sokka:: This is a water tribe weapon.  See if you can find anything else.
+Sokka :: Lemme see that.
+Sokka:: This is a water tribe weapon. See if you can find anything else.
+Katara :: Did someone lose something?
 Aang:: : No, we found something.
 Sokka:: It's burned.
 Sokka:: There was a battle. Water tribe warriors ambushed a group of firebenders.
 Sokka:: The firebenders fought back, but the warriors drove them down this hill...
 Aang:: So then what happened?
 Sokka:: I don't know. The trail ends here.
+Katara :: Wait! Look!
 Katara:: Is this... Dad's boat?
+Sokka :: No, but it's from his fleet. Dad was here.
 Iroh:: Ahh! See, Prince Zuko, a moment of quiet is good for your mental well being.
 June:: Get back! We're after a stowaway.
 Zuko:: There are no stowaways on my ship.
 Zuko:: He's paralyzed.
+June :: Only temporarily. The toxins'll wear off in about an hour. But by then he'll be in jail and I'll have my money.
 Zuko:: But how did you find him on my ship?
+June :: My shirshu can smell a rat a continent away.
+Iroh :: Well, I'm impressed.
+Iroh :: Very impressed.
 Hakoda:: Sokka...
 Sokka:: I'm coming with you.
 Hakoda:: You're not old enough to go to war, Sokka, you know that.
+Sokka :: I'm strong! I'm brave! I can fight! Please, Dad!
+Hakoda :: Being a man is knowing where you're needed the most, and for you right now that's here protecting your sister.
+Sokka :: I don't understand.
 Hakoda:: Someday you will.  I'm going to miss you so much.
 Sokka:: Who's there?
 Bato:: Sokka?
 Sokka:: Bato?
+Aang :: Who the what now?
 Katara:: Bato!
 Bato:: Sokka! Katara!  It is so good to see you two! Oh, you've grown so much.
+Aang :: Hi, I'm Aang.
 Sokka:: Where's Dad?
 Katara:: Is he here?
 Bato:: No, he and the other warriors should be in the eastern Earth Kingdom by now.
 Bato:: Brr! This is no place for a reunion. Let's get inside.
 Bato:: After I was wounded, your father carried me to this abbey. The sisters have cared for me ever since.  Superior, these are Hakoda's children. They've been traveling with the Avatar. I found them by my boat.
+Superior :: Young Avatar, it gives me great joy to be in your presence. Welcome to our abbey.
+Aang :: Thank you! It's truly an honor to be here. If there's anything –
+Sokka :: What smells so good, Bato?
 Bato:: The sisters craft ointments and perfumes.
 Sokka:: Perfume? Maybe we could dump some on Appa? Because he stinks so much! Am I right?
 Bato:: You have your father's wit.
@@ -38,19 +54,22 @@ Sokka:: Dad could eat a whole barrel of these things.
 Katara:: Bato, is it true you and Dad lassoed an arctic hippo?
 Bato:: It was your father's idea. He just dragged me along. Well, the hippo did the dragging.
 Aang:: Hey, I ride animals too! One time there was this giant eel –
+Sokka :: So who was it that came up with the great blubber fiasco?
+Bato :: You knew about that?
 Katara:: Everyone does.
 Aang:: What's that story?
 Sokka:: It's a long one, Aang, some other time.
 Katara:: You and Dad had so many hilarious adventures.
-Bato:: Not all of which were hilarious at the time, but everything's funny with hindsight.   Aang, put that down  , it's ceremonial and very fragile.
+Bato:: Not all of which were hilarious at the time, but everything's funny with hindsight. Aang, put that down , it's ceremonial and very fragile.
 Sokka:: Was it you or Dad that put an octopus on your head and convinced Gran-Gran you were a water spirit?
-Bato:: Your dad wore the octopus, but   I did the spooky voice.
+Bato:: Your dad wore the octopus, but I did the spooky voice.
 Zuko:: Out of my way! Step aside, filth!
 Iroh:: He means no offense! I'm sure you bathe regularly.
 Zuko:: I need to talk to you.
 June:: Well, if it isn't my new friends, Angry Boy and Uncle Lazy.
 Zuko:: Your beast trashed my ship. You have to pay me back. June : Aww, I'd love to help you out, but I'm a little short on money.  Drinks on me!
 All :: YEHHH!!!!
+Zuko :: Money isn't what I had in mind.
 June:: What happened? Your girlfriend run off on you?
 Zuko:: It's not the girl I'm after, it's the bald monk she's traveling with.
 June:: Whatever you say.
@@ -58,6 +77,8 @@ Zuko:: If you find them, I'll consider the damage to my ship paid for.
 June:: Heh! Forget it.
 Iroh:: Plus we'll pay your weight in gold.
 June:: Make it your weight and we got a deal.
+Iroh :: You got it!
+June :: Get on.
 Bato:: There's something I should tell you kids. I'm expecting a message from your father.
 Katara:: Really?
 Sokka:: When?
@@ -65,17 +86,22 @@ Bato:: Any day now. Your father said he'd send a message when they found the ren
 Sokka:: It's been over two years since we've seen Dad! That would be so incredible. Katara?
 Katara:: I do really miss him. It would be great to see Dad.
 Bato:: It's been far too long, hasn't it? I'm not sure when word will arrive, but when it does...
+Sokka :: It would be great, but we can't. We have to take Aang to the North Pole first.
 Katara:: Even if we had time to wait for the message, who knows how far we'd have to travel. We don't have time for a long detour.
 Bato:: I'm sure your father would understand and be proud that his children are helping the Avatar.
 Aang:: I can't believe they would leave me.
 Messenger:: I'm looking for Bato of the Water Tribe.
 Aang:: Uh, I know Bato.
+Messenger :: Make sure he gets this.
 Aang:: It's the map to Sokka and Katara's Dad!
 Aang:: Hey everyone! Sorry I was gone so long.
 Katara:: Hey Aang, I didn't notice you left.
+Aang :: Yup, but now I'm back. Sure...could go for some delicious sea prunes!
+Herbalist :: Out for a bit of fresh air, are we?
 Zuko:: We're looking for someone.
 Herbalist:: I hope it's not Miyuki.  Miyuki, did you get in trouble with the Fire Nation again?
 June:: The Avatar's been through here. Let's keep moving.
+Aang:: I'm sorry! I'll take care of this.
 Bato:: This ship is sentimental to me. It was built by my father.
 Sokka:: Is this the boat he took you ice-dodging in?
 Bato:: Yeh, it's got the scar to prove it. Huh. How about you, Sokka? You must have some good stories from your first time ice-dodging?
@@ -85,13 +111,16 @@ Aang:: What's ice-dodging?
 Bato:: It's a rite of passage for young water tribe members. When you turn fourteen your Dad takes you... you know what , you're about to find out.
 Zuko:: Why are we stopping?
 June:: Because the girl must of spent a lot of time here.
+Zuko :: We have no time for this!
 Zuko:: Hey, watch it!
 June:: Oh look, he likes you.
 Aunt Wu:: Care to hear your fortune, handsome?
+Iroh :: At my age there is really only one big surprise left, and I'd just as soon leave it a mystery.
 Bato:: Ice-dodging is a ceremonial test of wisdom, bravery and trust. In our village it was done by weaving a boat through a field of icebergs.
 Sokka:: How are we supposed to ice-dodge without ice?
 Bato:: You will be dodging...those.
 Bato:: Sokka, you steer and call the shots. Lead wisely. Katara, you secure the mainsail. The winds can be brutal, so be brave. Aang, you control the jib, without your steady hand we all go down. Your position is about trust.
+Aang :: I know that! Why wouldn't I know that? I'm the Avatar! I know about trust.
 Bato:: For this to be done right I cannot help. You pass or fail on your own.
 Sokka:: Aang, ease up on the jib. Katara, steady! Aang, less sail!  Katara, give him room!
 Sokka:: Aang! Helm to lee! Helm to lee!
@@ -100,15 +129,19 @@ Sokka:: Great job!
 Katara:: There's no way through!
 Sokka:: We can make it!
 Bato:: Sokka, you've already proven yourself, maybe we should –
-Sokka:: Aang, I'm gonna need air in that sail!   Katara, I want you to bend as much water as you can between us and those rocks!  Now!
+Sokka:: Aang, I'm gonna need air in that sail! Katara, I want you to bend as much water as you can between us and those rocks!  Now!
 Bato:: The spirits of water bear witness to these marks. For Sokka, the mark of the wise, the same mark your father earned.
 Bato:: For Katara, the mark of the brave. Your courage inspires us.
 Bato:: And for Aang, the mark of the trusted. You are now an honorary member of the water tribe.
 Aang:: I can't.
 Katara:: Of course you can!
+Aang :: No, you can't trust me.
 Katara:: Aang, what are you talking about.
+Aang :: A messenger gave this to me for Bato.  You have to understand, I was afraid you'd –
+Sokka :: This is the map to our father! You had it the whole time!? How could you?  Well, you can go to the North Pole on your own! I'm going to find Dad.
 Bato:: Now Sokka, I think you should –
 Sokka:: Katara, are you with me?
+Katara :: I'm with you, Sokka.
 Katara:: Good luck.
 Aang:: Okay. You too.
 Aang:: Guess I should be moving on.
@@ -119,18 +152,23 @@ Katara:: That wolf sounds so sad.
 Sokka:: It's probably wounded.
 Bato:: No, it's been separated from the pack. I understand that pain. It's how I felt when the water tribe warriors had to leave me behind. They were my family and being apart from them was more painful than my wounds.
 Katara:: Sokka?
+Sokka :: We need to go back. I want to see Dad, but helping Aang is where we're needed the most.
+Katara :: You're right.
+Bato :: Your father will understand. And I know he's proud of you.
 Sokka:: Thanks, Bato.
 Bato:: I know where to go from here. . Take this in case you want to find us. I'll leave a message at the rendezvous point.
 Aang:: Looks like we're going alone, guys.
 Superior:: Avatar! You must leave!
 Aang:: Okay, I get it. Everybody wants me gone.
 Superior:: A group of people came to the abbey looking for you.
+Aang :: Who?
 Superior:: A fierce looking woman with a horrible monster and a young man with a scar.
 Aang:: Zuko!
 Superior:: The beast was using the scent of a necklace to follow you.
 Aang:: A necklace?  Huh! Katara!
-June:: So this is your girlfriend.   No wonder she left. She's way too pretty for you.
+June:: So this is your girlfriend. No wonder she left. She's way too pretty for you.
 Zuko:: Where is he? Where's the Avatar?
+Sokka :: We split up! He's long gone.
 Zuko:: How stupid do you think I am?
 Sokka:: Pretty stupid.  Run!
 Zuko:: What are we supposed to do now?
@@ -153,4 +191,7 @@ Katara:: And we need you.
 Aang:: I wish I could give you a little piece of home, Katara. Something to remind you –
 Katara:: I'll be okay.
 Aang:: Still, just a little trinket. Maybe something like...this!
+Katara :: Aang, how did you get that?
+Aang :: Zuko asked to be sure I got it to you.
+Katara :: Oh, that's so sweet of Zuko. Would you give him a kiss for me when you see him?
 Aang:: Sure!
