@@ -73,7 +73,7 @@ Sokka:: Everyone into the hole!
 Commander:: Hold on! It's too dangerous. Haven't you heard the song? Just close them in. The mountain will take care of the rest.
 Katara:: It's okay, Appa. We'll be fine. I hope.
 Sokka:: We will be fine. All we need is a plan. Chong, how long do those torches last?
-:: Eh, about two hours each.
+Chong:: Eh, about two hours each.
 Lily:: And we have five torches so that's... ten hours.
 Sokka:: It doesn't work like that if they're all lit at the same time!
 Lily:: Ohh, right.

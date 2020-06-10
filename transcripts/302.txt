@@ -11,19 +11,19 @@ Sokka:: Looks like we got out voted, sport. Let's get some new clothes.
 Aang:: I don't know about this. These clothes belong to somebody.
 Katara:: I call the silk robe!
 Aang:: But if it's essential to our survival...then I call the suit!
-:: Ta-dah! Normal kid.
+Aang:: Ta-dah! Normal kid.
 Toph:: Hmm...I should probably wear shoes, but then I won't be able to see as well. Sorry shoes! Finally, a stylish shoe for the blind earthbender.
 Katara:: How do I look?
 Aang:: Uh...your mom's necklace.
-:: Oh...oh, yeah. I guess it's pretty obviously water tribe, isn't it?
+Katara:: Oh...oh, yeah. I guess it's pretty obviously water tribe, isn't it?
 Aang:: I used to visit my friend Kuzon here a hundred years ago. So everyone just follow my lead and stay cool. Or as they say in the Fire Nation - "Stay flamin'"! Greetings, my good Hotman!
 Fire Nation Citizen:: Uh, hi. I guess?
 Aang:: Oh, we're going to a meat place?
-:: Come on, Aang. Every one here eats meat...even the meat!
+Sokka:: Come on, Aang. Every one here eats meat...even the meat!
 Aang:: You guys go ahead. I'll just get some lettuce out of the garbage.
 Aang:: Hotman. Hotman. . Hotman. .
 Fire Nation Officer:: It's over, we caught you.
-:: Who me?
+Aang:: Who me?
 Fire Nation Officer:: It couldn't be more obvious that you don't belong here. Next time you play hooky, you might want to take off your school uniform.
 Aang:: Heh, heh. Uh!
 Teacher :: Oh! Is this a new mind ready for molding?
@@ -87,10 +87,10 @@ Music Teacher:: I know sometimes we're so moved by our love for our nation, that
 On Ji:: Oh, hi, Kuzon. I really liked that crazy dance you were doing.
 Aang:: Thanks, On Ji. I could show it to you again, if you'd like.
 Hide:: What'd you say, colony trash? You're gonna show her something?
-:: Just some dance movements.
+Aang:: Just some dance movements.
 Hide:: Nobody shows my On Ji , movements.
 School Headmaster:: Picking fights on your second day? We need to have a conference to discuss your punishment. Bring your parents to my office after school.
-:: Parents? But...
+Aang:: Parents? But...
 School Headmaster:: Don't be late.
 School Headmaster:: Thank you for coming, Mr. And Mrs...
 Sokka:: Fire! Wang Fire. This is my wife, Sapphire.
@@ -137,10 +137,10 @@ Toph:: Who knew Twinkletoes could dance?
 Zuko:: I brought you some komodo-chicken. I know you don't care for it, but I figure it beats prison food. I admit it. I have everything I always wanted, but it's not at all how I thought it would be. The truth is, I need your advice. I think the Avatar is still alive. I know he's out there. I'm losing my mind. Please, Uncle, I'm so confused! I need your help. Forget it! I'll solve this myself! Waste away in here for all I care!
 Aang:: And this is how they do it in the ballrooms of Ba Sing Se.
 Sokka:: Wow, they look pretty good together.
-:: Eh, if that's what you like.
+Katara:: Eh, if that's what you like.
 Aang:: Yeah, that's it. That's the sound of happy feet. All right, go with that. Everybody freestyle!
 Katara:: I don't know, Aang. These shoes aren't really right for dancing, and I'm not sure that I know how to...
-:: Take my hand.
+Aang:: Take my hand.
 Katara:: Okay.
 Katara:: Aang, everyone's watching.
 Aang:: Don't worry about them. It's just you and me right now.

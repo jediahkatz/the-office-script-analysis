@@ -18,7 +18,7 @@ def clean_transcript(script_soup):
         t for line in script_soup.find('blockquote').children
         if (t:=(
             '' if line.name=='i'
-            else str(line).strip().replace('\r', '').replace('</b>', ':')
+            else str(line).strip().replace('\r', '').replace('<b>:</b>', ':').replace('</b>', ':')
                 if line.name=='b' or not hasattr(line, 'get_text') 
             else line.get_text()
         ))
