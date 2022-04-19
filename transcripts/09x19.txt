@@ -15,7 +15,6 @@ Phyllis::  What does it say?
 Andy:: I don't know, Phyllis! I just got the text and started screaming, "Red Alert."
 Dwight:: Well, the alert was already set to "Red" because of Stairmageddon. You think I should set it to "Double Red"?
 Andy::  I think we should.
-Stanley::
 Oscar:: "The Office: An American Workplace airing on PBS next month is a documentary following the employees of Scranton's own Dunder Mifflin Paper Company!"
 Everyone:: Whoo!
 Nellie:: "In this series, which will air starting in May, we get an in-depth look at many interesting local people. There's Kevin Malone, the falstaffian accountant. Dwight Schrute, the head salesman forever chasing a manager position he will never get."
@@ -57,7 +56,6 @@ Toby:: Whoa.
 Jim:: Sorry. I—no, no, no, what I meant—what I meant actually was—
 Toby:: Oh, yeah, no, it's okay. I can handle it. Um, so...
 Jim:: You guys obviously went through some tough times leading up to it.
-Toby::
 Jim:: Okay. I was wondering if you ever did any couple's counseling.
 Toby:: Oh, sure, lots of times. Yeah. Wait, you and Pam aren't in couple's counseling, are you? Oh, God.
 Jim:: No, no, no, no, no. Uh, we're just starting couple's counseling. Uh, which doesn't sound any better.
@@ -84,11 +82,8 @@ Stanley:: Pass.
 Clark:: Hey, c-c-can you just let me out of here before whatever comes next?
 Dwight:: Don't worry, it's just a bull tranquilizer. Nothing to be alarmed about. It's just a man pointing a bull tranquilizer at a coworker.
 Stanley:: Dwight, you do not learn, do you? For a threat to be credible, you ha—
-Dwight::
 Clark:: Holy .
 Stanley:: No, you didn't. Sick of you and your—ooh—
-Dwight::
-Stanley::
 Dwight:: It's all right. Andy approved it.
 Meredith:: Man, he's really in twinkle town now.
 Clark:: Is he gonna be okay? I mean, weren't those darts intended for an animal, like, two to three times larger than him?
@@ -116,7 +111,6 @@ Clark:: Well, if I may, you're a natural.
 Dwight:: Thank you. I mean, I've rehearsed it in my head like 1,000 times, but, uh...
 Clark:: That's a little weird.
 Dwight:: I know. Evel Knievel.
-Dwight::
 Clark::  That's about as good as that's gonna be.
 Dwight:: Okay, now here's the plan. I'm gonna launch him. I need you to go to the bottom and catch him.
 Clark:: Catch?
@@ -133,8 +127,6 @@ Jim:: So how does it work? It's like, you know, the action of talking to a third
 Toby:: You're really there to talk to each other. I would say that the therapist is more of a facilitator.
 Jim:: Mm-hmm.
 Toby:: He might start by asking each of you, "Why do you think you're here?"
-
-
 Pam:: He took this job in Philly without telling me. He bought our house without telling me. At a certain point, he shouldn't be rewarded for that.
 Jim:: If I didn't do certain things without telling Pam, she'd be married to Roy.
 Pam:: I feel like he's always making these decisions for the family, and then I'm left playing catch-up.
@@ -150,7 +142,6 @@ Phyllis:: Her hair looks beautiful.
 Andy:: Yeah, we get it, Phyllis, she looks like a freakin' movie star!
 Erin:: Andy!
 Robert::  I would just to start by saying that there have been some rumors about my personal life that I would like to settle once and for all. As my long-suffering wife can attest... I am gay.
-Crowd::
 Reporter #1:: Senator, were always gay, or did your wife turn you gay?
 Reporter #2:: Question for the Senator's beard.
 Robert::  I'll say it again for mis amigos latinos. Yo soy homosexual.
@@ -170,11 +161,8 @@ Kevin:: Yes! Ohh! I did it. Ohh, I did it.
 Robert:: --with this new self-awareness, I was finally able to find love at long last. With my amazing... Chief of Staff Wesley Silver.
 Oscar:: What?!
 Creed:: Wesley Silver's gay?
-Crowd::
-Angela::
 Kevin:: Ohh.
 Creed:: They make a nice couple.
-Angela::
 Dwight:: Almost there. Almost there.  Okay. We're running late. Let's get him inside.
 Clark:: We can't just leave him bubble wrapped like this.
 Dwight:: Are you kidding me? The bubble wrap is the only thing that's stopping his suit from getting wrinkled. These meetings are all about presentation.
@@ -198,7 +186,6 @@ Clark:: Hey, wait, wait, how—how are we doing this?
 Dwight:: Well, I'll grab the forelegs, and you push his hindquarters.
 Clark:: Just say "arms" and "legs," okay? That just—that's the vernacular that I'm comfortable with.
 Dwight:: Fine, let's go.
-Clark::
 Dwight:: Hoist his shank on three.
 Clark:: Wha—What's a shank?
 Dwight:: It's by the tenderloin.
@@ -242,7 +229,6 @@ Dwight:: Look at him. I've never seen such a beautiful child.
 Mrs. Davis:: Funny sense of humor. If you push on his nose, he'll go, "eee."
 Dwight:: Like this? Watch.
 Stanley:: Eee.
-Everyone::
 Mrs. Davis:: Like that.
 Stanley:: A beautiful family.
 Dwight::  Right? Come on!
@@ -271,5 +257,4 @@ Stanley:: So I just smiled and complimented her grandkids, and we closed it?
 Dwight:: You earned yourself a nice, fat commission and you didn't even know it. I'll go tell Andy the good news. Oh.  Silly me. Gotta take the stairs.
 Stanley:: Oh, no, I'm not doing that again. You got me down, you gotta get me back up.
 Dwight:: Well—no, no—n—
-Stanley::
 Dwight::  We need a winch and a hoist.

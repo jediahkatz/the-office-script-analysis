@@ -43,6 +43,7 @@ def clean_transcript(script_soup: BeautifulSoup):
         .strip() for line in script_lines
     ]
     script_lines = [l.replace(':', '::', 1) for l in script_lines]
+    script_lines = [l for l in script_lines if (ls := l.strip()) and not ls.endswith('::')]
     return (f'{l.strip()}\n' for l in script_lines)
 
 # Scrape all episodes and write each to a file

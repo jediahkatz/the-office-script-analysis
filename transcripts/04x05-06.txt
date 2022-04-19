@@ -262,8 +262,6 @@ Angela:: Hey. Do you have any men that you can fix me up with? I would like to h
 Pam:: Um... uh... I'll get back to you.
 Angela:: Let me know.
 DunMiff/sys::  You beat me. You are the superior being.
-
-
 Michael:: Alright who wants to party?
 Oscar:: Why aren't you in New York?
 Michael:: Ohhh, what? Oh I think I faked Oscar out.
@@ -302,7 +300,6 @@ Dwight:: I think she's efficient.
 Andy:: No, not like that, as a woman. W-O-M-A-N.
 Dwight:: I hadn't noticed.
 Andy:: You hadn't noticed she's a woman?
-Dwight::
 Andy:: I hear she's single and ready to mingle. I'm thinking about making a play for her. What do you think? Crazy, right?
 Dwight:: I think it's inappropriate to date someone you work with.
 Andy:: Isn't that part of the fun?
@@ -313,23 +310,18 @@ Andy::  Okay.
 Michael:: Good news.
 Stanley:: We get to go home?
 Michael:: Guess who just ordered from your favorite pizza place, Alfredo?
-All::
 Kevin:: Wait! Alfredo's Pizza Cafe? Or Pizza by Alfredo?
 Michael:: Same thing.
 Kevin:: No, no.
-All::
 Michael:: You know what? I don't understand when you all talk at the same time.
 Kevin:: Oscar, talk to him.
 Oscar:: Michael, there's a very big difference between these two pizza places. Both in quality of ingredients, and overall taste. Which one did you order from?
 Michael:: Pizza by Alfredo.
-All::
 Michael:: Okay, okay, what's better? A medium amount of good pizza? Or all you can eat of pretty good pizza?
 All:: Medium amount of good pizza.
-Michael::
 Kevin:: Oh no, it's bad. It's real bad. It's like eating a hot circle of garbage.
 Phyllis:: You can pick one of these things. It's unreasonable for you to ask me to do all of this.
 Angela:: It should take no time at all if you put the care into it that you normally do.
-Phyllis::
 Angela:: Ow!
 Phyllis:: That seemed to shut her up.
 Andy:: Are you looking for dinner and a movie? Because you're not going to find it in that box.
@@ -352,7 +344,6 @@ Pizza guy:: I don't care what you told them on the phone, that's our policy.
 Michael:: You didn't actually think I was going to spend sixty bucks on pizza?
 Oscar:: It's not pizza.
 Michael:: Okay, it doesn't say it anywhere on the coupon, and if it's policy, it should say it on the coupon.
-Pizza guy::
 Michael::  What do you mean hmm-um?
 Pizza guy:: Not my problem.
 Michael:: It is your problem. That's no way to do business, okay? I ordered eight pizzas with a half-off coupon, so I would like eight pizzas for half-off. End of story.
@@ -459,7 +450,6 @@ Angela:: I didn't ask you to scratch it.
 Andy:: Look Angela, I know this is weird because we work together, and up until and possibly now I've repulsed you, but I like you.
 Angela:: I'm not dating you.
 Andy:: So, Angela is stubborn as a mule, she's giving off fairly strong vibes that she's not interested.
-Dwight::
 Andy:: But do I like her or not, because if I like her, then I can't back down.
 Dwight::  If you're going number one you've got ten more seconds!
 Michael:: Hey, have you seen Jim?
@@ -544,4 +534,3 @@ Dwight:: I don't get that, I don't understand that.
 Michael:: Well, it's part of it, it's just the... uhhh.
 Michael:: Wanna head back?
 Dwight:: Yeah, let's go.
-Ryan::

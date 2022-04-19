@@ -48,7 +48,6 @@ Charles:: Oh, you know it hasn't been that bad. Hasn't been that bad. These peop
 David:: Hmmm.
 Charles:: I feel like I should be thanking you.
 David:: Uh.
-Jim::
 Charles:: The conference room is ready if we want to get started.
 David:: You know, I just want to address everyone first.
 Charles:: Oh yeah, take your time. Stanley, pay attention.
@@ -122,8 +121,6 @@ Pam:: I like it.
 Jim:: Good, right? Hello.
 Dwight::  Idiot, we're starting back up. This is Dwight, by the way.
 Jim:: Oh, okay.  Don't worry about it.
-
-
 Michael:: Did I ever tell you about the day that Steve Martin died?
 Pam:: Steve Martin's not dead, Michael.
 Michael:: I know. But I always thought that the day that he died would be the worst day of my life. I was wrong. It's this.
@@ -202,7 +199,6 @@ Michael:: Never accept their first offer. What is your second offer?
 David:: $12,000.
 Michael:: Are you kidding me? That is insultingly low. I don't even want to hear what your first offer was.
 Angela:: What do you hear?
-Kelly::
 David:: Here's the situation. Your company is four weeks old. I know this business. I know what suppliers are charging. I know you can't be making very much money. I don't know how your prices are so low, but I know it can't keep up that way. I'm sure you're scared. Probably in debt. This is the best offer you're gonna get.
 Michael:: I'll see your situation and I'll raise you a situation. Your company is losing clients left and right. You have a stockholder meeting coming up and you're going to have to explain to them why your most profitable branch is bleeding. So they may be looking for a little change in the CFO. So I don't think I need to wait out Dunder Mifflin. I think I just have to wait out you.
 David:: Okay, now I don't know that I can get this. I do have to go to the board for approval. How's about $60,000. Hmm? $60,0000. Michael?

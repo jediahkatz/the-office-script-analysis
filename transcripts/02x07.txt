@@ -80,7 +80,6 @@ Hostess:: This way, please.
 Jan:: Christian.
 Michael:: Alright, after you.
 Christian:: Thank you.
-Michael::
 Jan:: I thought we could start by going over the needs of the county.
 Christian:: Right. Well, Lackawanna County has not been immune to the slow economic growth over the past five years. So for us, the name of the game is budget reduction-
 Michael:: Awesome blossom.
@@ -118,8 +117,6 @@ Jim:: Oh, those are drawings. In case the writing didn't really put a picture in
 Michael:: First guy says "Well, I'm an astronaut, so I drive a Saturn". And the second guy says, "Well, I am a pimp, so I drive a cheap Escort". And the third guy says "I gotcha both beat, I'm a proctologist, so I drive a brown Probe".
 Christian:: Ohhh no!  Oh my God, that's funny! I almost had Awesome Blossom coming out of my nose!
 Jan::  Excuse me, could I have a vodka tonic, please?
-
-
 Jim:: Do we all have our copy of "Threat Level: Midnight", by Michael Scott?
 Everyone:: Yeah, yeah.
 Jim:: Alright, let's get this started. I'm gonna be reading the action descriptions, and Phyllis, I would like you to play Catherine Zeta Jones.

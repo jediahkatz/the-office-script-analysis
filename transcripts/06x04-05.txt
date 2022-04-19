@@ -256,8 +256,6 @@ Jim:: To waiting.
 Everyone::  To waiting.
 Mema:: I should have known. The hotels television set had a movie on called "Bruno" last night. The remote control had so darn many buttons on it, I couldn't turn it off. So I had to just sit there while it happened to me. I wondered, 'How could they pick such a hotel?' Hmmm. Now I know.
 Pam:: Mema.
-
-
 Michael:: That was a little touch and go at first but I think we saved it.
 Jim:: I can't believe it was me.
 Michael:: I know. I can't believe it was you, either. I actually think it takes a lot of pressure off of me.
@@ -529,7 +527,6 @@ Oscar:: Guys, maybe we should wait a little more time before we start grabbing b
 Dwight:: Toby.
 Toby:: What?
 Dwight:: I'd like to lodge a formal complaint against Jim for making us wait for over an hour.
-Toby::
 Dwight::  Crap.  Come here you.
 Toby:: Well I guess this weddings not going to happen. I wonder if this is it for them.
 Pam's dad:: Hey. What happened?

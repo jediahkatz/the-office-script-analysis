@@ -183,8 +183,6 @@ Michael:: Yes.
 Jim:: You have to fire the salesman that treated me so terribly.
 Dwight:: Don't do it, Michael.
 Michael:: ...  It's a million-dollar sale.
-
-
 Andy:: So it's called the Shangri-La Tent. It's two stories, heated and has a bridal suite for my bridal sweet. It's just really simple, really tasteful.
 Angela:: I don't want to be married in a tent like a hobo
 Andy:: Hobos live in trains.
@@ -281,7 +279,6 @@ Ryan:: Her America's Got Talent finale party over the summer.  That's crazy. It 
 Jim:: I wasn't. But thank you.  Do you know anything about this party?
 Pam:: Yes, I said you definitely should go, but you wanted to visit me instead.
 Jim:: Well, I can't be the only one who didn't --
-Jim::
 Jim:: Dwight, let me see your coffee cup.
 Dwight:: No.
 Jim:: Is that it?

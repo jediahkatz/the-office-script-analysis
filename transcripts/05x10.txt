@@ -162,8 +162,6 @@ Pam:: All right, see you later...
 Michael:: See ya.
 Pam:: Hot tie guy.
 Michael::  Hahaha!... well...
-
-
 Dwight:: Have you made a decision on the butter sculpture?
 Angela:: No. I haven't thought of it.
 Dwight:: Okay. Cow, goat or sheep. It's not that hard.
@@ -204,7 +202,6 @@ Dwight:: Here's another place.
 Angela:: It's beautiful.
 Andy:: Hey-o!
 Dwight:: So... why don't we try this out, we'll see what would happen. Give it a little test drive, what do you say? You pretend to be Angela's father, you will play Angela, and uh, I will pretend to be you. That way you can see what it looks like when you're up here.
-Andy::
 Angela::  Hello, I'm Angela Martin, and-
 Andy:: I'm Andy.
 Angela:: I work with Dwight.

@@ -1,5 +1,4 @@
 Dwight:: This year I decided to really get into the spirit of Halloween.
-Erin::
 Dwight::  It may have been the costliest decision I've ever made.
 Dwight:: My greased up head went into the pumpkin no problem, but ...
 Jim:: It won't budge.
@@ -29,9 +28,7 @@ Angela:: The senator will be joining us later.
 Andy:: Not a question.
 Angela:: No, it wasn't.
 Andy:: Excellent. That reminds me, has anyone seen Treble? Anyone? I could have sworn I saw some Treble somewhere.
-HCT::
 Andy:: Oh, ladies and gentlemen, Here Comes Treble!
-HCT::
 Andy:: Aaah!  So good!
 Dwight:: What lab did these little clones escape from?
 Andy:: My Cornell a capella group.
@@ -53,7 +50,6 @@ Pam:: Okay.
 Dwight:: Jim. Look I'm eating you.
 Jim:: Shut up.
 Dwight:: Ha ha. Hey Erin, look, these are Nerds. I'm eating Jims.
-Erin::
 Dwight::  Must eat more Jims. Oink oink oink oink.
 Erin::  Stop it! Stop it! Stop it!
 Dwight:: Oh no, I'm spilling Jim all over the carpet.
@@ -77,12 +73,10 @@ Nellie:: It's my pill. I have an anxiety issue and I'm not ashamed of that, But 
 Nellie:: Yeah, you're right. This man needs to be apprehended.
 Dwight:: I'll get my apprehension kit.
 Andy:: Ruh duh duh da dudes! What's up?
-HCT::
 Andy:: I know that it's pathetic to re-live your college years, but cut me some slack, Okay? Because I was a freaking rock star in college. When I joined Here Comes Treble, that's when I became somebody. When I got the nickname "Boner Champ," that is when I became me.
 Andy:: You didn't come here to sit in a room, right? You came here for some intergenerational bro time. Well, now's your chance! I'm here. You got Qs; I got As.
 HCT Member #1:: Did you say you've got AIDS?
 Andy:: No, I don't have AIDS. That's not what I said. Next question.
-
 Andy:: You don't have any-- Any questions about the old days?  You at least want to know why they call me Boner Champ?
 HCT Member #2:: I thought Broccoli Rob was the Boner Champ.
 Andy:: I'm sorry, what?
@@ -140,8 +134,6 @@ Angela:: You know what? This is outrageous. I have to find Phyllis. You two talk
 Senator Lipton:: God, it's just so good to see you.
 Oscar:: I, uh, huh, just
 Senator Lipton:: All having this wonderful Halloween gathering. Excuse me, is that punch?
-
-
 Andy:: They didn't know about the snowman story, and when I told ‘em, they were not impressed.
 Erin:: What is with these turkeys?
 Andy:: Right?
@@ -158,7 +150,6 @@ Toby:: Are... are you me?
 Nellie:: Yes.
 Toby:: Oh my goodness, look. Look at this.
 Nellie:: Yeah. I...
-Toby::
 Nellie:: Yes. I thought I'd you know, be you.
 Toby:: Look at.. Look at me.
 Nellie::  It's funny right?
@@ -197,27 +188,20 @@ Jim:: Um, oh man, I don't actually know.
 Pam:: What?
 Jim:: They weren't really talking that much about money. They just said, We're good with investing and then I...and I...
 Andy:: Ladies and gentlemen, Here Comes Treble!
-HCT::
 Pam:: They said they were done with the investing and then you volunteered ten thousand dollars?
 Jim:: No, no, I had to. Look, I needed to look like a team player, Pam.
 Pam:: So you invested ten thousand dollars to look like a team player?
 Jim:: You weren't there.
-HCT::
 Jim:: It was very clear that ten thousand was what we had...we should talk about it later.
-HCT::
 Pam:: Talk about it now.
 Jim:: Pam.
 Pam:: Jim, that was most of our savings.
-HCT::
 Clark:: Wait! Wait. Hold on. Where's the band? ‘Cause there's just no way you guys are making this magic with just your mouths.
 Creed:: Yeah. That's what she said.
 Clark:: What, am I overdoing it? No. No.
-HCT::
 Pam:: We said some. We said ‘some.'
 Jim:: We'll talk about it later.
-HCT::
 Pam:: We said part not all.
-HCT::
 Clark:: Yes! All right!
 Andy:: Oh Man!
 Clark:: That's how you do that! Whoo!
@@ -227,12 +211,8 @@ Dwight:: I agree. Yes, crap. Continue.
 HCT Member #3:: Now folks, by special request, we're going to take it a little old school. There is a former Trebler in this room.
 Darryl:: Who?
 HCT Member #3:: It's Mr. Andy Bernard!
-All::
-HCT::
 Andy:: No. Do not sing that. Do not... Oh man...
 HCT Member #3:: He reminded us today of how much he means to us. And we certainly seem to mean a lot to him, so without any further ado, here's an old Treble classic.
-HCT::
-Broccoli Rob::
 Andy:: Whoa! Whoa! What the hell is Broccoli Rob doing here?
 HCT Member #3:: She said you wanted to hear ‘Faith'. That's Broccoli Rob's signature song.
 Andy:: That's my signature song.
@@ -291,6 +271,5 @@ Dwight:: Which one? Mose or the real Mose?
 Nellie:: The real Mose.
 Dwight:: He says Thank you.
 Andy::  Mom, I had this really charitable idea to set up this scholarship for a capella kids at Cornell and just need to wire some money over there.  What?
-
 Erin:: What's wrong?
 Andy:: My parents are broke.

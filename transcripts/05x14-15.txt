@@ -1,7 +1,6 @@
 Dwight:: Last week I gave a fire safety talk.  And nobody paid any attention. It's my own fault for using PowerPoint. PowerPoint is boring. People learn in a lot of different ways, but experience is the best teacher.  Today, smoking is gonna save lives.
 Dwight::  Does anyone smell anything smoky?
 Angela:: Did you bring your jerky in again?
-Dwight::
 Pam::  Oh, my God! Uh, Oh my God!
 Phyllis:: What--
 Andy:: Whoa, fire!
@@ -217,8 +216,6 @@ Michael:: Five thousand three hundred dollars for a dummy?
 Dwight:: Wow.
 Michael:: Okay, look. David, this is why we have training. We start with the dummy, and we learn from our mistakes. And now Dwight knows not to cut the face off of a real person.
 Andy:: Hope you brought your appetitos. My lady. My tuna. A little movie popcorn.  Uh, damn it. This movie, a lot of buzz. Not coming out for another six months. Mrs. Albert Hannaday. So, friendship with the Nard-dog has its privileges.
-
-
 Pam:: We don't normally download films illegally. Because we're honest, hardworking people.
 Jim:: And we don't know how.
 Pam:: But Andy does, so we have to watch it with him.
@@ -263,7 +260,6 @@ Pam:: Hey.
 Jim:: Hey.
 Pam:: Um, did my dad say anything about my mom?
 Jim:: Mmm... nope, we mostly just talked about cereal.
-Pam::
 Jim:: What?
 Pam:: I dunno. I mean, maybe he'll talk to you about some of this stuff 'cause he can't really talk to me about it.
 Jim:: Mmm...
@@ -335,7 +331,6 @@ Meredith:: Michael? You ran over me with your car. You posted a picture of my ba
 Michael:: Well...
 Meredith:: Michael, you are the reason I drink. You are the reason I live to forget.
 Michael:: Pow pow pow...
-Oscar::
 Michael::  NO! No, friends only. Friends ONLY.
 Jim:: Several times a day, Michael says words that are way beyond my vocabulary.
 Michael:: I know where this is goin'.

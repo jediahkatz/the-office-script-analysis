@@ -26,7 +26,6 @@ Pam:: Some candy.
 Meredith:: What else?
 Pam:: That's it.
 Meredith:: Oh, 'cause you spent so much on the wedding.
-Michael::
 Pam:: It's good to be home.
 Dwight:: This conversation has two items on the agenda.
 Jim:: Do we have a conversation scheduled?
@@ -58,7 +57,6 @@ Jim:: You did not have s*x with Pam's mom.
 Michael:: Oh, big time.
 Jim:: What kind of car does she drive?
 Michael:: She drives a green camry.
-Jim::
 Michael:: And the seats go all the way down. All the way down.
 Jim:: Oh my God.  Oh my God.
 Michael::  What?
@@ -92,7 +90,6 @@ Jim:: You know what, I am really slammed, trying to catch up on everything here 
 Pam:: Come on, it'll take two seconds.
 Jim:: No, it-
 Michael::  Oh, wow.
-Pam::
 Michael:: That is amazing. I feel like a real Puerto Rican.
 Erin:: Michael, you're all set at Botticelli's. I changed the reservation to two people.
 Michael:: Erin, look.
@@ -110,7 +107,6 @@ Michael::  I don't deserve this, guys.
 Jim:: Yes, you do.
 Michael:: No, I don't.
 Jim:: Just take the parrot.
-Michael::
 Jim:: Okay, back to the old grind.
 Michael:: I was probably going to break up with her anyway.
 Pam:: Oh, that's too bad.
@@ -128,7 +124,6 @@ Pam:: Oh! Gossip, who is it? Who is it? Who is it, Michael? ...Who?
 Michael:: It's okay.
 Pam:: No, no, no, no, no. Oh, no. Oh, my God! Oh, my God! Nooooo!
 Michael:: That could have gone one of two ways, but I never expected her to get upset.
-Pam::
 Dwight::  You seem tense. Hey, you want me to give you the chills?
 Michael:: Okay.
 Dwight:: There's an egg on your head and the yolk is running down, the yolk is running down...
@@ -143,7 +138,6 @@ Jim::  Oh, so Dwight gave me this wooden mallard as a gift, and I found a record
 Pam:: You need to be more upset about this. She's your mother too now. Your mother is sleeping with Michael Scott.
 Jim:: Andy, can I talk to you for a second?
 Andy:: Sure thing, Tuna Boss.
-Jim::
 Andy::  How may I be of service to you?
 Jim:: I am gonna need your advice  I was thinking about getting this opera for Dwight's birthday, what do you think?
 Andy::  This aurea is a joke.
@@ -155,8 +149,6 @@ Dwight::  The Nard Dog... what was that all about?
 Andy:: I know, right?
 Dwight:: What were you talking about in there?
 Andy:: Trust me it would only make you mad.
-
-
 Michael::  Due to a certain recent incident, corporate has asked all the branches to come up with ideas as to how we can better communicate with our communities.
 Andy:: Is this because of the 60 Minutes segment about working conditions in our Peruvian paper mill?
 Michael:: That was a hit job. If you read the Dunder Mifflin press release it clearly states that they had absolutely nothing to do with that particular cancer cluster. So if there is a lesson to be learned here and I'm not sure that there is, it is that in order to help our communities, we need to put other people's needs ahead of our own.

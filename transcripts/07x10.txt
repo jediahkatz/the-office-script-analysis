@@ -1,4 +1,3 @@
-Dwight::
 Jim:: Why?
 Dwight:: Twenty minutes a day Jim, that's all it takes. Twenty minutes a day, all feet, no hands and I'll have the pedi-dexterity of a chimp, and you'll be sitting there like an idiot.  Okay. Here we go. Ah, yes.
 Pam:: Do you mind?
@@ -6,11 +5,9 @@ Dwight:: I'm sorry Pam, allow me to write you an apology letter.
 Pam:: You don't have to do that.
 Dwight::  D-E-A. Oop, backspace. A. Dear.
 Jim::  Ahh, Thank you hands. Nothing else in the universe can do what you do.
-Dwight::
 Jim:: Oh, don't worry about it. Dwight, its okay. You were wrong.
 Dwight::  Uhh, aah!
 Jim:: Well, A for effort right?
-Dwight::
 Hank:: Welcome, start your morning right with a burst of blueberry. Or try plain.
 Andy:: What's the occasion?
 Hank:: Dwight said this entry was a waste of space.
@@ -87,7 +84,6 @@ Michael:: I don't know what the  that was.
 Dwight:: I say we b*mb 'em. By 2020, they're gonna be the world's largest economy and they're getting a taste for protein. We'll all starve.
 Phyllis:: Yeah, Dwight's right we should drop a b*mb.
 Michael:: No he's not right. We're not. Where would we even drop it, Phyllis? Did you know that in China there are fifty six cities with over a million people? You know how many we have here? Nine.
-Erin::
 Oscar:: Actually, that's not true. I know the figure you're referring to, and it's a projection of fifteen years from now.
 Kevin:: Thank God.
 Michael:: No, no. That is right now.
@@ -116,7 +112,6 @@ Gabe:: Oh my God, I can't look at roaches.
 Angela:: Michael do something about this.
 Michael:: Absolutely, Pam this is exactly why I hired you as Office Administrator, handle it. Taking care of business.
 Pam:: Dwight take it down.
-Dwight::
 Pam:: I'm serious, take it down or else.
 Dwight:: Or else? Or else what? There's nothing you can do.
 Pam:: We can move out.
@@ -160,8 +155,6 @@ Kelly:: Oscar it must be k*ll*ing you to know that Michael is smarter than you.
 Oscar:: He's... he's not smarter than me, he was just right about one thing.
 Kelly:: Yeah, but it was a really smart thing to be right about, actually.
 Ryan:: Actually, it was.
-
-
 Jim:: Around here, Oscar is known as 'actually' because he will insert himself into just about any conversation to add facts, or correct grammar. He really does fit that old stereotype of the smug gay Mexican.
 Darryl::  Megan Fox. Question mark. What's that mean?
 Andy:: Megan Fox! Come on!

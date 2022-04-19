@@ -214,7 +214,6 @@ Michael:: Wrong. Toby, this is an orientation not a borientation. Okay. Do not w
 Jim:: Oh, this looks promising.
 Pam:: You won't be disappointed.
 Michael:: Let's face it. Moving to a new job can be very stressful. So I have made an orientation video especially for you newcomers. But it's not like any orientation video that any of you have ever seen. It's funny. It's got a little bit of a zing to it and I hope that it gives you a flavor of what we're all about here at Dunder Mifflin. And what we're all about here in Scranton. So let's just all laugh together and watch "Lazy Scranton".
-Video::
 Michael:: Sittin' in my office with a plate of grilled bacon, call my man Dwight just to see what was shakin'.
 Dwight:: Yo Mike, our town is dope and pretty.
 Michael:: So check out how we live
@@ -227,12 +226,9 @@ Michael:: The Electric City. Call poison control if you're bit by a spider.
 Dwight:: But check that it's covered by your health care provider!
 Jim:: It reminds me of the orientation video showed on my first day. 'The Scranton Witch Project'.
 Michael::  I am so scared... when people don't label their personal food.
-Video::
 Michael:: You like coal mines and you wanna see 'em, Well, check it out, yo, the Anthracite Museum! Plenty of space in the parking lot,
 Dwight:: But the little cars go in the compact spot
 Michael and Dwight:: Spot, spot, spot, spot ...
-
-
 Michael::  Spot. Scranton. What? The Electric City. Scranton.What? The Electric City. Scranton. What?
 Michael:: Well, so far, I think it is killin'. I thought it would either be an 'A' or an 'A+' but I completely forgot that there's an 'A++'.
 Karen::  This is Karen Filippelli. Please leave a message.
@@ -299,7 +295,6 @@ Michael:: People hate people that are different from them. That's natural. But y
 Michael:: I know what a lot of you must be thinking. 'Wow! What a day! Feels more like a night at a party than a day at work.' Well, in my opinion, business should feel like a night out. A night... at... the Roxbury. Okay. There's supposed to be music and it's... I got it, I got it! I got it. Dwight! Just.
 Dwight:: Do you have batteries?
 Michael:: Ssshh stupid! Um...
-Andy::
 Michael:: That's it!
 Andy::  What is love?
 Michael:: Yes, yes! Okay!
@@ -328,7 +323,6 @@ Tony:: Uh... this is difficult, for me.
 Michael:: I understand. We're all friends.
 Tony:: No. I mean I can't physically. I can't get on the table.
 Michael:: Oh, well. Just use the momentum of your lower half to hoist yourself up.
-Tony::
 Michael:: You know what? I'll help. I will...
 Tony:: No, please. No.
 Michael:: Don't be shy! Dwight! Let's do this!

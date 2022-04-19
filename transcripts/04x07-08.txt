@@ -214,8 +214,6 @@ Michael:: Um... that wasn't much of an introduction.
 Ryan:: Ladies and gentlemen, your boss, Michael Scott.
 Michael:: Ahh, still lame. Okay. All right. Thank you, Ryan, for that wonderful introduction. Okay, um, today we're gonna be talking... about...PowerPoint! PowerPoint! PowerPoint! PowerPoint!
 Michael:: Yes I forgot about Ryan's presentation. And yes, it would have been nice to do well with the first presentation he had given me. But you know what else would have been nice? Winning the lottery.
-
-
 Michael:: And the best way to start is to hit start. And up comes the toolbar, that's what she said. What we have to do here is go to Run, and then you look up to PowerPoint. And we are in. We are going to register. You hit register--- Updates are ready. I should update. Um, estimated time 12 minutes, so this should take 5 or 10 minutes.
 Ryan:: Is this the first time you ever opened PowerPoint?
 Michael:: Why?
@@ -302,7 +300,6 @@ Kevin:: I do gamble Michael.
 Michael:: Yeah, I was thinking about doing some gambling myself. You know, just a little bit of money. Maybe doubling it, and them doubling it seven more times. I don't know, kind of just for fun. I was thinking, do you have tips, or ideas about sure things. Like a boxer who is going to throw the big fight, you know, like, like he's tied into some crooked dealings, maybe his kid is sick or something. Like, who do I call about that?
 Kevin:: The mob.
 Michael:: Do you know anybody in the mob?
-Kevin::
 Michael:: Okay, um, Oscar, I'm going to need to take another advance on my salary.
 Kelly:: What do you mean you have plans tonight?
 Darryl:: I have my daughter tonight; we're renting Charlotte's Web.
@@ -310,7 +307,6 @@ Kelly:: Well, you have to make a choice, it's either your daughter, or me.
 Darryl:: My daughter.
 Kelly:: Okay, I see how it is.  Oops.
 Darryl:: That was cold.
-Kelly::
 Phyllis:: He's always been terrible with money.
 Stanley:: I bet it's Jan spending him straight to the poor house.
 Kevin:: Yeah, women be shoppin'.
@@ -416,7 +412,6 @@ Dwight::  No you didn't.
 Jim:: Yeah, I didn't think I had. Well, it was all about Pam.
 Dwight:: Mmm-uh-mm
 Jim:: Yeah, I mean she was with Roy, and, uh, I just couldn't take it. I mean, I lost it Dwight. I couldn't sleep, I couldn't concentrate on anything. Even weird stuff, like food had no taste. So my solution was to move away. It was awful. It was something that I wouldn't wish on my worst enemy, and that includes you.
-Dwight::
 Pam:: Hey, I was thinking about dinner---
 Jim:: Ah, dinner. Let's see, maybe we should try the new Italian place, where the drive-in used to be.
 Pam:: Okay.

@@ -24,7 +24,6 @@ Narrator::  Michael Scarn, well that's an interesting story.  He was once the be
 Samuel::  Master Scarn.
 Dwight:: I play Samuel, Michael Scarn's robot butler. I wanted Samuel's voice-  to be like this!  But Michael thought that Samuel should be a very advance android, almost indistinguishable from a real person.
 Michael:: Dwight does not play a robot.
-Samuel::
 Michael::  I'm up.
 Samuel:: It's the president. He needs you for a mission.
 Michael:: Tell him I'm retired.
@@ -55,7 +54,6 @@ Michael:: No!
 Goldenface:: Oh by the way!
 Michael:: Yeah?
 Goldenface:: How's your wife doing?
-Michael::
 Michael:: Congratulations.
 Oscar:: Hey, you came in second. Not bad either.
 Michael:: I am sorry that I have to do this...
@@ -68,8 +66,6 @@ Dwight:: He cut the part where my circuit board malfunctioned! What was the poin
 Jan::  They call me Jasmine Winsong.
 Michael::  Bingo.
 Jan:: He finished his movie?  No kidding. Wow, that's great. Yeah that's good for him.
-Jan::
-Michael::
 Jan::  The hostages are under the stadium.
 Michael:: Jack Blaise.
 Pam:: You have to let us go Goldenface! We have families!
@@ -79,7 +75,6 @@ Samuel:: Ha!
 Kevin:: Michael Scarn!
 Goldenface:: Sorry about your friend, Scarn!
 Michael:: The joke's on you Goldenface, that man was a wanted animal r*pist.
-Goldenface::
 Samuel:: We've searched the whole building, Goldenface, where is the b*mb?
 Goldenface:: Hm?
 Samuel:: We've searched the whole building, Goldenface, where is the b*mb?
@@ -92,12 +87,8 @@ Goldenface:: Because I'm going to k*ll you.  Unless! You forgive me for murderin
 Michael:: Hey Goldenface.
 Goldenface:: Yeah?
 Michael:: Go puck yourself!
-Goldenface::
 Samuel:: Noooo!
 Michael:: That was not scripted.
-
-
-Goldenface::
 Michael:: More Tylenol.
 Helene::  You've already had four.
 Pam:: Looking at her mother on screen, horrified] Oh God...  So good.
@@ -107,7 +98,6 @@ Helene:: Let's just make sure that everything's... Working properly...
 President:: You just said the b*mb... is in the puck?
 Michael and Samuel together:: Yes.
 President:: Is that where you hid the b*mb Goldenface?
-Goldenface::
 Samuel:: But why would you blow up the stadium? You OWN the stadium!
 Michael:: For the insurance money! I knew it all along!  You will never get away with this!
 Michael:: Where had I gone wrong? All I wanted was to start a family with my beautiful wife. But somewhere along the way, things got messed up.
@@ -127,7 +117,6 @@ Billy:: There is a whole crowd of people out there, who need to learn, how to do
 Michael::  Well my name's Michael Scarn and I'm here to say, I'm about to do The Scarn in a major way.  You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn!  You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn! You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn!
 Todd Packer::  If doing The Scarn is gay, then I'm the biggest q*eer on Earth!
 Jim::  Sorry.
-Michael::
 Jim:: I'm sorry, I'm really, really sorry. I think I was just relieved, to see that Michael Scarn got his confidence back.
 Kelly:: Yeah Michael the movie is amazing!
 Kevin:: It's like one of the best movies I've ever seen in my life.
@@ -176,8 +165,6 @@ Michael:: No it's not.  It's not. But, they really seem to be enjoying it.
 Hostage:: Please Goldenface, let us go!
 Michael::  Cherokee Jack.
 Cherokee Jack:: I want you to take all of your frustrations, with women, the system, with everything. Take it out on the puck. All on the puck.
-Michael::
-Michael::
 Samuel:: Yah!
 Billy:: Hey! We got sports games again!
 Goldenface::  Ha ha ha! Ha ha ha ha ha!  Oh-

@@ -1,11 +1,7 @@
 Dwight::  Hola, hola. Necesito une bueno worker. Tu esporte! Come on!  Que? QUE?
-Mexican Man::
 Son:: We don't go with that man. I've seen several men go with that man and not come back.
-Mexican Man::
 Son:: We've lost friends.
-Mexican Man::
 Son:: We don't know what he does with them.
-Mexican Man::
 Son:: I don't want to talk about it anymore.
 Dwight:: I pick up day laborers and tell them they'll get paid at six p.m. At five forty five, a certain INS agent by the name of Mose Schrute throws them in the back of a van, drops them off in the middle of Harrisburg and tells them it's Canada.
 Nate:: Hola amigo.
@@ -17,7 +13,6 @@ Dwight:: You speak English?
 Nate:: Yes, I'm really good at English.
 Dwight:: Ok, good. Me too, get in the car.
 Nate::  Okay.
-Dwight::
 Angela::  Who's this guy by our cars?
 Dwight:: That is my new maintenance worker, Nate. And you'll be happy to know that he's taking care of that hornet's nest that you've been griping about.
 Phyllis:: Yeah, I got stung up my dress.
@@ -28,14 +23,12 @@ Dwight:: He'll die.
 Kelly:: What?
 Andy:: Uhh, beg your pardon?
 Dwight:: When did the phrase do or die become so corrupted?
-Nate::
 Kelly:: Is that a blow torch?!
 Pam:: No. No no no!
 Dwight:: Interesting choice...
 Pam::  Yes!
 Andy:: Very very smart.
 Pam:: Yeah, go away.
-Nate::
 Employees except Dwight:: No! No no!
 Dwight:: A bat! Impressive...
 Andy:: Oh it's stinging him! Ow! Ow!
@@ -85,7 +78,6 @@ Michael:: Okay! You know what? Might! Might be crawling with herpes. I might hav
 Dwight:: You need to contact every woman you've been with, and notify them of your herpes infestation. It's the right thing to do.
 Michael:: There's no way I'm gonna do that.
 Dwight:: Then I will.
-Michael::
 Dwight:: No, I'm no doctor, but it seems to me that we all have an obligation to the public health to track down anyone who gives us a disease, inform them of it, and take overwhelming revenge on that person. Again, I'm no doctor. I'm just a normal guy who enjoys revenge.
 Donna::  Hello?
 Michael:: Hi Donna. It's Michael.
@@ -149,8 +141,6 @@ Dwight::  He forgot to mention the herpes.
 Michael:: It didn't come up organically.
 Jan::  ...to accommodate the, uh, suppliers.  Gentlemen! Nice to see you, it'll be just a moment. If you could show them into Conference Room B.  The pharmaceutical aspects should be able to...
 Jan:: How do I do it? Raise my daughter, work as director of office purchasing for this hospital and release an album of Dorris Day covers on my own label? If I knew I'd tell you.
-
-
 Michael:: It's nice to see you doing so well.
 Jan:: Yeah I'm really happy. Me and Astrid against the world.  We're loving it, yeah. I'm kind of a supermom.
 Michael:: Bringing home the bacon.

@@ -8,7 +8,6 @@ Pam:: It's possible that some people thought it was your birthday.
 Darryl:: "Hooray. Live it up big D. " "Days like this don't come often enough. Time to celebrate. You deserve this"?
 Andy:: Birthday punches!  One two three four five sice seven eight!
 Pam:: I'm so sorry.
-Darryl::
 Andy:: ...thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six!...
 Andy:: ...So I got an early res at Blue Wasabi and I'm taking Rachel. She's picking me up after work.
 Darryl:: Rachel from the party?
@@ -33,11 +32,9 @@ Gabe:: Well, get to work.
 Erin:: I can't, 'cause there's no clue.
 Gabe:: The puzzle is the clue.
 Erin:: Oh.
-Oscar::
 Michael::  Are these numbers correct?
 Oscar:: The numbers are correct, Michael.
 Michael:: Okay.
-Oscar::
 Michael:: Are you... are you sick, Oscar? Do you need to go home? 'Cause you're grossing me out.
 Oscar:: I jus... I just need a signature.
 Jim::  There you go. Thanks.
@@ -86,7 +83,6 @@ Kevin:: I don't know, guys. I, for one, enjoy watching them, because...
 Angela:: No, stop! Just don't.
 Oscar:: Kevin!
 Kevin:: Can I finish? Can I finish? Is that okay? I was saying...I enjoy watching them because it makes me horny.
-Everyone::
 Angela:: God! Kevin!
 Erin:: So tell me about your new girlfriend.
 Andy:: She's neat. Uh, I met her at Darryl's cousin's party. We were the only two white people there.
@@ -106,7 +102,6 @@ Michael:: Oh, yeah.
 Holly:: A little lower.
 Holly:: I cannot keep myself from Michael. Everything he does is sexy. He has this undeniable animal magnetism. He's a jungle cat. The man exudes s*x. He can put both his legs behind his head.
 Gabe:: Thank you all for meeting on such sort notice.
-Michael::
 Gabe:: Yes?
 Michael::  Yes. Michael Scott, Dunder Mifflin. What is the purpose of this meeting?
 Gabe:: Seeing as it's Valentine's Day, I felt it would be apropos to have a little refresher course on romance in the workplace.
@@ -192,8 +187,6 @@ Darryl:: Pick it up.
 Andy:: Okay.
 Darryl:: Take it out. Pick it up. Pick it up. Pick it up. Take it out.
 Andy:: Right. Okay.
-
-
 Holly:: Sorry to interrupt. Forgot to collect my things.
 Michael:: Ah, the old "leave behind." Oldest trick in the book. Good thing it's working.
 Holly:: Oh, no. Michael, I don't want to make people uncomfortable.
@@ -278,7 +271,6 @@ Michael:: That's what we said last time. Remember? We broke up on the drive. How
 Holly:: We weren't in love last time.
 Michael:: I was in love with you.
 Holly:: I'm not saying it won't be hard. But we can make it work. That's what she said.
-Michael::
 Erin:: Oh. One Erin Special, please.
 Hank:: Here's your bottle of sparkling cider.
 Andy:: Hey.
@@ -351,4 +343,3 @@ Ryan:: Anybody can be Prince Charming one day a year with the dinner and the flo
 Kelly:: Flowers, diamonds, three-course meal, violinist comes to my table to serenade me...
 Kevin:: Pizza, soda, the moon, someone to share it with.
 Michael:: What are our plans for tonight? Umm...
-Holly::

@@ -3,7 +3,6 @@ Michael:: I'll call back.
 Kevin:: You never call back.
 Pam:: Every time Michael's in a meeting, he makes me come in and give him a Post-It note telling him who's on the phone. I did it once, and he freaked out. He loved it so much. The thing is he doesn't get that many calls. So he has me make them up every 10 minutes.
 Michael::  Yeah, um, tell him I'll call him back.
-Jan::
 Michael:: You can't always work 200 days though.
 Michael::  Oh, no, no, no, I don't have time for this. Tell him I'm in a meeting.
 Ryan:: You have to know how to work this. There's no excuse for this.
@@ -115,8 +114,6 @@ Jan:: Uh, yes.
 Lester:: Can you go back to where this digression began?
 Deposition Reporter::  Mr. Schneider: And you were directly under her the entire time? Mr. Scott: That's what she said.
 Michael:: Well, delivery is all wrong. She's butchering it.
-
-
 Kelly::  Yeah, that's what I thought.
 Lester:: Did Ms. Levinson ever say why she thought she was being fired?
 Michael:: She thought it had to do with the twins. That's what I call them.
@@ -192,7 +189,6 @@ Michael:: Yes.
 Diane Kelly:: You may read the, uh, highlighted portion out loud if you'd like to.
 Michael::  "I am out of carrots. I am out of sticks. Mr. Scott has time and again proven himself to be an unmanageable employee, and a poor branch manager. I recommend he be removed from that position and re-assigned to sales where he belongs."
 Diane Kelly:: Mr. Scott, after hearing that wouldn't you say Ms. Levinson's judgment is, at least, very seriously flawed?
-Michael::
 Diane Kelly:: Mr. Scott?
 Pam::  How's it going?
 Dwight:: Well, he has gone from completely hopeless to simply miserable.
@@ -203,7 +199,6 @@ Pam:: I'll make the call.
 Dwight:: Wait a minute, Darryl is the client? ...No, no, no. He works here, dumbass.
 Jim:: ...Right. Spin-serve!
 Michael:: How can you do that to me?
-Jan::
 Lester:: You can respond, just remember it's all going into the record.
 Jan:: Michael, I am not the enemy, OK? Dunder Mifflin is the enemy.
 Michael:: Dunder Mifflin has always treated me with the utmost respect, with loyalty. They were going to give me your job and I should have taken it.

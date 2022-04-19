@@ -1,4 +1,3 @@
-
 Jan:: Okay. So what is it that you wanted to talk to me about?
 Oscar:: Well, we've been trying to balance the books for a week now, and for some reason, they're not balancing.
 Jan:: I'm sorry?
@@ -22,7 +21,6 @@ Angela:: That's a very nice watch, Oscar.
 Oscar:: Yes, it is. My grandfather left it to me when he died.
 Angela:: I've never seen it before. He must have died very recently.
 Oscar:: Yes, he did, actually. About three weeks ago.
-
 Phyllis:: You guys wanted to see me?
 Kevin:: Yeah.
 Oscar:: Hi, Phyllis. Um, we're going over everyone's expenses for the year. It's just standard procedure.
@@ -43,7 +41,6 @@ Angela:: You don't use it to buy refrigerators, Kevin!
 Kevin:: Don't yell at me.
 Oscar:: Okay. Thank you, Phyllis.
 Phyllis:: Okay.
-
 Angela:: So, is there anything you want to tell us about? Accounting-wise?
 Meredith:: Gosh, I don't think so.
 Oscar:: We're trying to find out who stole money from the company.
@@ -67,7 +64,6 @@ Oscar:: Okay. Thanks for your time.
 Meredith:: Sure.
 Kevin:: Thanks, Meredith.
 Meredith:: You guys want to get that beer?
-
 Stanley:: Somebody stole some money. That is fantastic. How much did they get?
 Kevin:: $3,000.
 Kevin:: We're in the process of interviewing everyone in the office. I think it's kind of fun. It's a great chance to catch up with people.
@@ -92,7 +88,6 @@ Oscar:: But, my mom's in town, so I can't go.
 Angela:: Can we focus, please?
 Kevin:: I've never seen it.
 Oscar:: Kevin, it's really bad.
-
 Oscar:: I really don't think it was anyone in the office.
 Angela:: It had to have been someone.
 Angela:: Yeah, I do think it's someone in this office, which really breaks my heart, to tell you the truth. Because I thought we were all good people here.
@@ -128,9 +123,6 @@ Kevin:: Oh, Roy, one more question. What do you think of Angela?
 Oscar:: You don't have to answer that one.
 Kevin:: But you can if you want to.
 Oscar:: But you don't have to.
-
-
-
 Oscar:: So, it isn't Phyllis, it isn't Stanley or Jim, it isn't Meredith, it isn't any of us.
 Angela:: We don't know that.
 Kevin:: Oh, come on.
@@ -151,7 +143,6 @@ Angela:: "To whom it may concern?" Really, Kevin? Really?
 Kevin:: Fine, then you write it.
 Angela:: Thank you, it's just easier this way.
 Kevin:: I finished my own memo.  Angela stinks. I mean, I'm not handing it out or anything. And don't tell her I said it. It's just for me. In fact, forget that I said anything about it, ever. Oh, God. What have I done?
-
 Angela:: We are missing $3,000. Things are getting tense.
 Oscar:: Wait. Here, I found it! Here it is! $2,800 returned to petty cash. Angela, I forgot to sign in the money.
 Angela:: Okay. Yeah.
@@ -172,7 +163,6 @@ Kevin:: You guys, this is stupid, that we're turning on each other. That is exac
 Oscar:: Who?
 Kevin:: The guys who stole the money.
 Angela:: All right, you know, there's only one more thing to do. We have to investigate Michael.
-
 Kevin:: He is still in there.
 Angela:: Yeah, we know.
 Oscar:: Basically, we're convinced that Michael took the missing $3,000, so we're waiting until he leaves his office so we can go in and search for evidence. When I say it out loud, it really doesn't seem like a good idea.
@@ -203,7 +193,6 @@ Angela:: It's not supposed to be fun. ...Again, sorry.
 Kevin::  Get it?
 Oscar:: What is it?
 Kevin:: Animal House. You guys are breaking my spirit.
-
 Kevin::  Attention! There is a lot of junk in here! Over!
 Angela:: Don't touch anything. You'll leave fingerprints.
 Oscar:: You think he's gonna dust for fingerprints?
@@ -233,7 +222,6 @@ Angela:: Well, it's about to be shut off.
 Oscar:: Okay. This is pointless. Someone just has to talk to him.
 Kevin and Oscar::  Not it.
 Angela:: Hey, wait.  Not it.
-
 Dwight:: You're saying Michael stole money from his own company?
 Angela:: Well, we've asked everyone else.
 Dwight:: No! No, that's insane. It has to be somebody else. Like Meredith. Or Creed. No. Meredith, definitely.

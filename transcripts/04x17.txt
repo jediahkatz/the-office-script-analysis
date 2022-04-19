@@ -88,8 +88,6 @@ Michael::  What do you want?
 Dwight:: Michael, I know you're swamped. I just thought you should know that everyone in the office has left, except for Angela and I. Do not worry though, I have taken down their names, and I have docked them a personal day.
 Michael:: Who cares? I'm not there, Jim's not there, why should they have to be there?
 Dwight:: So... what else is up?  Mich-
-
-
 Michael:: Thank you!  What, what is this?
 Pam:: A piece of paper.
 Michael:: This isn't Dunder Mifflin paper. Some sort of Pendleton crap.
@@ -102,7 +100,6 @@ Phil:: Oh!  Ah, dammit!
 Jim:: You know, you can just pick it up, take the triple bogey.
 Phil:: Yeah I'll- I'll get it out. Thank you.
 Jim:: Yep.
-Angela and Dwight::
 Andy::  AH! Come on, Tuna!
 Jim:: Hey, can't really talk now, what's up?
 Pam:: Just checking in, how's it going?
@@ -116,7 +113,6 @@ Kevin:: Yeah.
 Andy:: All right, race to the next hole!
 Kevin:: Ooh! Winner gets ten bucks! Wait -wait for me! Andy!
 Andy:: Shortcut! Shortcut!  Woah! I fell in the sandtrap!
-Dwight::
 Michael:: All of these jobs? Suck. I would rather live jobless, on a beach somewhere, off the money from a large inheritance, than to have to work in any one of these crap-holes. They suck.
 Michael:: Hey!  Game over.
 Michael::  Just-in time.
@@ -139,7 +135,6 @@ Justin:: You were kind of a jerk to me.
 Michael:: I, uh, hmm.
 Justin:: And I'm, I'm gonna go now.
 Michael:: Why don't... hey.
-Andy::
 Dwight::  Ah-choo!
 Angela:: Bless you.
 Dwight:: Thank you.

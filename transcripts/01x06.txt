@@ -39,7 +39,6 @@ Dwight:: Cocks in the henhouse.
 Michael:: Don't say cocks. Oh, what is your name, my fair lass?
 Katy:: Katy.
 Michael:: Ah, Katy. Wow. Look at you. You are, uh you're like the new and improved Pam. Pam 6.0.
-
 Michael:: Oh, look. Oh hey, no catfights you two. I'm against violence in the workplace.
 Dwight:: So am I.
 Michael:: Nobody cares what you think.
@@ -50,7 +49,6 @@ Pam:: There's an HR meeting in there at 11:30.
 Michael:: Well, lets put 'em in the hallway. Give 'em some chairs. Right? Decisiveness. One of the keys to success according to Small Businessman.
 Michael:: I do. I read Small Business man. I also uh, subscribe to USA Today and American Way Magazine, that's the in-flight magazine. Some great articles in that. They did this great profile last month of Doris Roberts and where she likes to eat when she's in Phoenix. Illuminating.
 Michael:: This is my conference room. So please, uh, make yourself at home. Whatever you need, I'm right on the other side of this wall.  used to be a window here. There's not anymore. So, that's where I will be.
-
 Michael:: So if you need anything else, something to make you more confortable just don't hesitate to ask. I'm right here.
 Katy:: I guess a cup of coffee would be great.
 Michael:: Wait a second. I should have spotted another addict. Uh, gotta love the 'bucks.
@@ -66,7 +64,6 @@ Kevin:: So are you jealous 'cause there's another girl around?
 Pam:: No.
 Kevin:: She's prettier than you though.
 Pam:: That's a very rude thing to say, Kevin.
-Kevin::
 Katy:: So do you like the periwinkle and the purples?
 Dwight:: The purse girl hits everything on my checklist. Creamy skin. Straight teeth. Curly hair. Amazing breasts. Not for me, for my children. The Schrutes produce very thirsty babies.
 Michael::  There ya go. Nice steaming cup o'joe.
@@ -98,7 +95,6 @@ Toby:: Yeah.
 Michael:: You and your wife, and you have kids.
 Toby:: A girl.
 Michael:: Oh that so - that was really messy. He slept one night in your car too?
-Toby::
 Katy:: I should probably get back to my table.
 Michael:: Okay. Alright. Cool. See ya in a bit.  Oh, she's cute. Cutie-pie. Back to work.
 Michael:: I live by one rule. No office romances. No way. Very messy. Inappropriate. No. But, I live by another rule: Just do it. Nike.
@@ -139,7 +135,6 @@ Jim:: Yes. Listen, you are spending way too much time talking to me, when you co
 Dwight:: Okay, I'm just going to use the bathroom, and then I'm going...
 Jim:: No. You don't need the bathroom. You've got it. Go.
 Jim:: Okay, shhhh stop... stop whatever you're doing because this is going to be good.
-Pam::
 Jim::  Hi my name's Dwight Schrute and I would like to buy a purse from you. Good lord, look at these purses! This is something special. Oh my God is this Salvatore Di-chini-asta?
 Pam::  Oh definitely, definitely step in and out of it like that.
 Jim:: Yes, well I want to stress test it. You know, in case anything happens.
@@ -150,19 +145,16 @@ Jim:: I'm going to be the prettiest girl in the ball. Oh, how much?
 Pam:: Oh, God. It's sad. It's so sad.
 Jim::  Here he comes, shhh...
 Jim::  Good.
-Pam::
 Jim:: He did pick a good one.
 Pam:: You're horrible.
 Katy:: This one's really good for a hot date.
 Pam:: Yeah, what's that?
-Katy::
 Pam:: I'm engaged. So...
 Katy:: Congratulations. You need a hot date more than anyone.
 Pam:: I wished, right?
 Michael:: Giggle-giggle, juji-juji, I get it, I get it. Divine Secrets of the Ya Ya Sisterhood over here right?  So how's that uh, coffee from earlier?
 Katy:: Good.
 Michael:: Ah, I knew it. Guzzled it down. You greedy little thing. So, uh, Pam is this your lunch break, or was that earlier when you were eating in the kitchen with those guys?
-
 Katy::  Sorry.
 Michael:: Busted.
 Katy::  Come back...
@@ -173,8 +165,6 @@ Katy:: Wow. Is that for the office?
 Michael:: Oh, I know what you're thinking. You're not prying this out of my hands, but don't tempt me because I'll give it to you!
 Katy:: I wouldn't think of it.
 Michael:: Coffee is the great incentivizer in the office. It's a drug. It is quite literally a drug that speeds people up. It's not the only drug that speeds people up. You hear stories about Dunder Mifflin in the eighties before everybody knew how bad coca1ne was. Guh. Man, did they move paper!
-
-
 Michael::  Oh the rotating um, steam wand.  What? What's the matter?
 Katy:: Oh, nothing. My ride just bailed on me.
 Michael:: Oh, oh! God. I'm sorry. Is there...?
@@ -220,7 +210,6 @@ Stanley:: Is that from the machine that was in your office?
 Michael:: Ummm-hmmm...
 Stanley:: I thought that was the incentive prize for the top salesperson.
 Michael:: Very easy to clean.
-
 Michael:: Okay. Like he's going to win anyway, right?
 Michael:: Did we get any mail?
 Pam:: Yeah, I gave it to you.
@@ -228,7 +217,6 @@ Michael:: Yes you did. Yes, you did. Just checkin'. Just checkin', double checki
 Pam:: So, can I..?
 Michael:: Yeah, yeah, of course. Uh, Pam, one more thing. Um, how do girls your age feel about futons?
 Jim:: A futon?
-Pam::
 Jim:: He's a grown man
 Pam:: That's what he said.
 Jim:: That's sad. Or it's innovative. Well, you know the futon is a bed and couch all rolled into one.
@@ -262,7 +250,6 @@ Dwight:: Please? I wanted to talk to you in private because I wanted to ask you 
 Katy:: No.
 Dwight:: Ok was that no to talking to me in private, or was that no to the date?
 Katy:: Both.
-
 Katy:: What colors do you like?
 Angela:: Gray. Dark Gray. Charcoal.
 Michael:: Ryan.

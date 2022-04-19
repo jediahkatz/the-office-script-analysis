@@ -81,7 +81,6 @@ Bob:: What a pair of Mary's.
 Stanley:: This is Pretzel Day.
 Ryan:: Hey Dwight, you're a great salesman. Can you teach me? Sure, Ryan. I'll make you the ole commodor. I'll abandon you in a beet field. Huh. That sounds great, Dwight, I'll really appreciate that. Thank you so much for your mentorship.
 Dwight:: Congratulations resourceful salesman. You have passed the second challenge. Welcome to Schrute Farm.
-Karen::
 Jim::  Love me, love me, say that you love me, fool me, fool me,
 Karen:: stop.
 Jim:: Go on and fool me. Love me, love me, say that you love me
@@ -116,8 +115,6 @@ Ryan:: Who was that?
 Dwight:: Pay no attention to the spirits that haunt this hallowed ground.
 Ryan:: Is that your Cousin Mose?
 Dwight:: Yes.
-
-
 Dwight:: Mose is my cousin and he lives here. He will always be my best friend. Unless things go well with Ryan today in which case, I won't hang out with Mose so much anymore.
 Dwight:: What is the greatest danger facing Dunder Mifflin?
 Ryan:: Outsourcing and consolidation of competition.

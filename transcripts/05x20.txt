@@ -141,8 +141,6 @@ Michael:: Ok, alright, well I'll just bounce that off David, see what comes back
 Charles:: I'll tell David what he needs to know. Sorry. David wants it this way.
 Michael:: Whatever David wants.
 Charles:: Ok.
-
-
 Michael::  Michael Scott calling for David. Well, just tell him to call me ASAP as possible. Thanks.
 Dwight:: Oh, Michael, come on, no. You have to charm 'em.
 Stephanie:: David Wallace's office.
@@ -159,7 +157,6 @@ Michael:: And I really really need to talk to David.
 Stephanie:: Please hold.
 Charles::  Charles Miner. Hello? Hello, who is this? Who is this?
 Michael:: I was never given a name.
-
 Pam::  Uh, hi, can I help you? I don't think anyone here-
 Charles:: Oh, uh, Pam? Hey everyone, lunch is on me today.
 Angela:: That is so unnecessary!

@@ -49,7 +49,6 @@ Dwight:: And this chair's gonna be yours. And this desk. Ha!
 Jim:: I'm on the phone. I'm on the phone.
 Dwight:: No doy!
 Jim:: I'm just gonna call you back. Thanks.
-
 Rolf:: I hope you like Norwegian black metal, because I don't do earbuds.
 Dwight::  No earbuds!
 Jim:: I'm sure he's just nervous.
@@ -85,7 +84,6 @@ Clark:: Thanks, dude.
 Jim:: Right after you do one thing for me. I need you to breathe in my face.
 Clark:: Why?
 Jim:: I need you to breathe in my face right now.
-Clark::
 Jim:: What are we working with, peppermint or wintergreen?
 Clark:: Wintergreen.
 Jim:: I knew it, I knew it.
@@ -107,7 +105,6 @@ Clark:: Yeah. Star Trek rules.
 Dwight:: It does, but still no.
 Clark:: Come on, man. I mean, did Trevor do that? Did Rolf do that?
 Dwight:: Oh, you think they're my only friends? I've got way more friends than that, and they're all better than the losers who work here.
-
 Stanley:: This is not natural.
 Oscar:: Just – I don't wanna make assumptions based on people's physical appearances.
 Pam:: Well, of course not, but does physical appearance include smell?
@@ -137,8 +134,6 @@ Gabor:: I knew you looked familiar. You used to pick up Dwight from school.
 Melvina:: You went to X-Men school too?
 Clark:: X-Men school?
 Dwight:: When I was young, I spent several years at a private school where I was told I would be taught to harness my mutant abilities. Turned out it was a conman copying Charles Xavier's School for Gifted Youngsters from the X-Men comic books. Took me years to figure out that it was a con. Some people never figured it out.
-
-
 Gabor:: Oh, I have a few powers. Night hearing. Dogs understand where I point. And our training included picking carrots, scrubbing tubs, sewing imitation Levi's. A lot of telemarketing.
 Angela:: I don't want to sit near any of those people for the next 20 years. Someone say something.
 Stanley:: I said something when they were thinking of hiring Jim. Didn't work then. And now look what he's doing to us.
@@ -178,7 +173,6 @@ Hide:: Why you make trees into bushes? You don't make paper from bushes.
 Pam:: Hide, they're giving out jobs upstairs. Why don't you go up and get one?
 Hide:: Thank you.
 Pam:: Yeah.
-
 Troy:: Whoops.
 Zeke::  It's dense. Like bread.
 Jim:: Dwight, you can't just hire someone ‘cause they're your friend.
@@ -267,15 +261,12 @@ Clark:: Hey, Pam, I'm going to the kitchen. You want anything?
 Pam:: I'm good.
 Dwight:: Oh, hey, I'll take a coffee.
 Clark:: Oh, I'm sorry. You gotta be this cool for coffee.
-Dwight::
 Pam:: Hey, Dwight. Wanna haze the new guy?
 Dwight:: Who, me?
 Pam:: Us.
 Dwight:: Absolutely, I do.
 Pam:: Okay. Okay, here. Okay, so the next time he goes to the bathroom, I'll distract him, you take that.
 Dwight:: Okay, yeah, I know what to do. Okay. Oh, that's great.
-Pam::
-Pam & Dwight::
 Dwight:: Aah!
 Clark:: No!
 Dwight:: Welcome to the club, pig!

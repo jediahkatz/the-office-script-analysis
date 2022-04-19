@@ -17,7 +17,6 @@ Jim:: Sounds good.
 Roy:: Hey Halpert!
 Jim:: Hey...
 Pam:: ROY!
-Karen::
 Pam:: Roy don't!
 Roy::  Ahh God!
 Dwight:: Pam, please call security!
@@ -79,7 +78,6 @@ Michael:: It's a surprise.
 Jim:: Okay.
 Michael:: Go ahead, ask me for a raise.
 Jim:: Can I have a raise?
-Michael::
 Jim::  s*x, Steve Martin, Terri Hatcher.
 Michael:: What?
 Jim:: What?
@@ -145,7 +143,6 @@ Jim:: So, none of that tipped you off?
 Michael:: It's European, OK? It's a European cut.
 Pam:: Michael, the pants don't have any pockets.
 Michael:: No, they don't. See?
-Pam::
 Michael:: Italians don't wear pockets.
 Pam:: It's been a really rough couple of days... This helps a little.
 Karen:: Hey, maybe you want to come over and raid my closet?
@@ -166,13 +163,10 @@ Angela::  Goodness.
 Karen:: When I heard Jim and Pam had kissed, my reaction was to have lots of long talks with Jim about our feelings. Roy just attacked him. I'm not sure which one Jim hated more.
 Michael:: Let's get down to business. Why don't you tell me why you think you deserve a raise.
 Darryl:: Well, it's simple Mike. I mean we merged these two branches right? So now we're shipping twice as many orders as we used to. With Roy gone we got a smaller crew. And I'm pickin' up all of his slack, so I think I should be compensated fairly, by gettin' a raise.
-Michael::
 Darryl:: What? I can't hear you.
 Michael::  That was a very good point.
 Darryl:: I can't--- what, Mike? Are you---
 Michael::  You make a very compelling argument.
-
-
 Pam:: Sorry I almost got you k*lled.
 Jim:: Yeah, that was nuts.
 Pam:: He could have broken your nose or something. Crazy. It's just so stupid. I mean, getting back with Roy and everything. I mean, what was I thinking, right?

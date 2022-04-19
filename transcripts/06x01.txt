@@ -1,9 +1,7 @@
 Michael::  Parkour!
-Dwight & Andy::
 Andy:: Parkour!
 Dwight::  Extreme! Parkour!
 Jim:: This... is Parkour.  Internet sensation of 2004. And it was in one of the Bond films. It's pretty impressive.  The goal is to get from point A to point B as creatively as possible, so technically they are doing Parkour, as long as point A is delusion and point B is the hospital.
-Dwight::
 Dwight & Andy::  Parkour! Parkour!
 Dwight:: Andy! Leapfrog!
 Andy:: Do me! Do me!
@@ -18,8 +16,6 @@ Michael & Dwight::  Yeah! Gainer! Woohoo!
 Andy::  Hardcore Parkour!
 Michael:: Parkoooooour!
 Dwight:: Let's do it!
-Andy::
-Michael & Dwight::
 Andy::  Parkour!
 Dwight::  Good. Excellent. Thank you.
 Female Intern::  There you go. Is there anything else I can do?
@@ -69,10 +65,8 @@ Michael::  Stanley was on your group date?
 Maurie:: No, Stanley was with his wife. I waved at him, but he didn't wave back.
 Michael::  Does anybody else know about this?
 Maurie:: No.
-Michael::
 Michael:: There he goes. There he goes.
 Michael:: So, what is the scuttlebutt? Anybody hear anything?
-Dwight, Jim & Pam::
 Michael:: Nothing? Well I got a little somethin' somethin'. I don't know if I should say...
 Pam:: Just keep it to yourself then.
 Michael:: Stanly is having a midlife crisis.
@@ -81,14 +75,12 @@ Michael:: Well apparently, he and his wife were out dancing at a club for young 
 Phyllis:: Teri's out of town, Michael.
 Michael:: Who?
 Phyllis:: Teri, Stanley's wife. She's at an interior decorating expo in Philly. Stanley hates crowds, kids, and music. I think you should check your facts.
-Michael::
 Michael::  You stupid son of a bitch. You set me up.
 Maurie:: What are you talking about?
 Michael:: Stanley's wife is out of town.
 Maurie:: He was with somebody.
 Eric:: He was definitely with somebody.
 Michael:: Oh, was he? Well who, his sister?
-Eric::
 Michael::  I don't get it!
 Eric:: If that was his sister, then what they were doing was totally illegal.
 Michael:: Drugs?
@@ -112,7 +104,6 @@ Michael::  Did you hear Stanley's having an affair?
 Jim:: I did. From you. You gotta stop telling people.
 Michael:: Oh, okay, I get it. You feel out of the loop, and you feel sorry for yourself, and it's really sad because everybody thinks you're a loser...
 Jim:: Do you know if it's true? Do you have any idea? Because you might be ruining his life.
-Michael::
 Michael::  Stop. Hold up, hold up, hold up! No, no, no. Time to stop being polite and get real.  Stanley, are you having an affair?
 Stanley::  That is ridiculous. Of course not, why would you think that?
 Michael:: So It's not true. Okay, well... ahhh, those interns, they told me they saw you at a club, and they all said it was you, it was clearly just... racial profiling gossip.
@@ -130,7 +121,6 @@ Stanley:: I just need you to promise not to say a word about this to anyone. Mic
 Michael::  I'm not saying... a damn thing.
 Stanley:: I'm counting on you, Michael.
 Michael::  You can count on me.
-Stanley::
 Michael::  Oh, that smells good.
 Kevin:: I might have extra, it just depends on how many I eat.
 Michael:: Did you hear about Angela? That's pretty weird.
@@ -154,8 +144,6 @@ Michael::  Did you hear Pam is pregnant?
 Meredith:: Really?
 Michael:: Yeah!
 Meredith:: She's gonna hate being a mom.
-Andy::
-Kevin::
 Andy:: What?
 Kevin::  Tea.
 Andy:: So?
@@ -168,8 +156,6 @@ Andy:: WHAT??
 Kevin:: Because you're gay.
 Andy::  Who told you that? Was it Broccoli Rob? Someone from Chi Psi? Or did you run into someone from my high school?
 Andy:: This is not the first time rumors about me being gay have come up. Twice before, actually. Just a weird coincidence... a little too weird.  Almost makes you wonder if it's not a coincidence at all. Whoa! Which it is, of course.  But it makes you wonder.
-
-
 Andy::  Did you hear the rumor about me? That I'm gay?
 Oscar::  I did. Yes.
 Andy:: And?
@@ -177,7 +163,6 @@ Oscar:: What?
 Andy:: Do you think it's true? Do you think that I'm... gay?
 Oscar:: Are you attracted to other men?
 Andy::  No! But, let me kick you a scenario. I'm at a beach cabana, and Brad Pitt approaches. He tries to lean in and kiss me. I would definitely resist, like at first. But if he was persistent,  I think I might give in a little bit, just to see what it... felt like.
-Oscar::
 Andy:: Would I push him away? How hard? Like, what if he's like really aggressive?
 Oscar:: If you resisted Brad Pitt a little bit, he would still... need to get to you?
 Andy:: It's not real Brad Pitt, this is like, this is my fantasy. Or it's like, not a fantasy, it's just... it's just a scenario.
@@ -219,7 +204,6 @@ Jim:: Yep.
 Andy:: Congratulations to you.
 Jim:: On what?
 Andy::  Come on... little baby Tuna. Little junior toro.
-Jim::
 Angela::  Did you know a baby conceived out of wedlock is still a b*st*rd?
 Pam:: What?
 Angela:: Want me to say it again?
@@ -243,7 +227,6 @@ Kevin:: I need to do mine first. Who's been saying that there's another person i
 Creed:: I heard that from... Andy.
 Andy:: I heard it from Erin.
 Erin:: I heard it from Michael.
-Michael::
 Pam::  Michael?  He's over here!
 Pam::  Where are you going?
 Michael:: Nowhere.
@@ -255,9 +238,7 @@ Jim:: Michael...
 Kevin:: Stay.
 Pam:: Step away.
 Creed:: Come on, boss.
-Michael::
 Michael::  Okay, I made it all up.
-Everyone::
 Andy:: Even the fact that I'm gay?
 Michael:: Yes.
 Andy::  Yes!
@@ -294,21 +275,17 @@ Pam:: Yes.
 Jim:: If everyone would like to see proof.
 Pam:: Okay.
 Kelly:: Are we just gonna wait here?
-Everyone::
 Kelly:: It's true!
 Michael:: Look at that!  That is the inside of your v*g1n*!
 Pam::  It's clear why we were trying not to tell people. That's clear now.
 Michael::  How long have you known about the pregnancy?
-Jim & Pam::
 Michael:: A week? A month? A year?
 Jim:: Michael, we only told our parents last week.
 Michael:: Did you pee on a stick?
 Jim:: I did. It was inconclusive.
 Michael:: You should've told me.
 Pam::  You're right. We should've realized that you are an equal part of this.
-Michael::
 Erin:: Michael, Teri Hudson returning your call.
-Michael::
 Pam::  You called Stanley's wife?
 Michael:: Oh, oh... yeah, a long time ago, just to make sure she was out of town. Oh... oh God.
 Jim:: Don't take it.
@@ -320,9 +297,7 @@ Michael:: Yes, I can. I am going to tell her that I need to redecorate my condo,
 Jim:: That sounds terrible.
 Pam:: Michael, please don't.
 Michael::  Hey, what up, Cynthia?
-Jim::
 Michael:: Hold on a second, Cynthia.
-Jim::
 Michael:: Well, it turns out that Teri was already suspicious, because she had caught Stanley and Cynthia a few months ago. So Stanley promised that he would stop, and he did, end of story. Well, not exactly.  Uhh, Cynthia kept calling him, she would not stop calling him, and she was in love with him. Oh, and get this. Cynthia, also married. So... you can't stop love, I guess  and quite frankly, I don't think you should ever try.
 Maurie::  I learned that a company can describe their internship as "full of exciting experiences," even if that's a lie. There's no regulation.
 Megan:: I learned that half these people's email password is "password."

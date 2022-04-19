@@ -1,5 +1,4 @@
 Andy::  Hey everybody it's closing time. You don't got to go home but you can't stay here.
-Erin::
 Andy:: Closing time.
 Andy:: Every office needs an end of the day tradition. Something to tell you the day is over. Otherwise, you go home and the night just feels like more day. It's weird.
 Andy:: Closing time
@@ -128,8 +127,6 @@ Jim:: If this doomsday device goes off...
 Dwight:: Accountability booster.
 Jim:: If this bad idea goes off and we all lose our jobs. Are you going to feel good about that?
 Dwight:: I haven't even considered it. That's how sure I am that this accountability booster is going to work.
-
-
 Stanley:: Try mose1234.
 Ryan:: Dwight would never be that obvious. Try something like...z64$8.  Not that exactly Jim, something like that.
 Jim:: Ok.

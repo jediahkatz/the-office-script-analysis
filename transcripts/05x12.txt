@@ -67,7 +67,6 @@ Dwight:: I've got a better angle on Pam. I can see everything.
 Jim:: Please stop.
 Dwight::  I need a soup spoon.
 Dwight:: Rule 17: don't turn your back on bears, men you have wronged, or the dominant turkey during mating season. There are forty rules all Schrute boys must learn before the age of five.  Learn your rules. You better learn your rules. If you don't, you'll be eaten in your sleep.
-Dwight::
 Angela:: What is it?
 Dwight:: You've got to tell Andy about us.
 Angela:: That is a terrible idea. One of your worst.
@@ -76,7 +75,6 @@ Angela:: You're expanding on your worst idea.
 Dwight:: Do you love me or not?
 Angela:: I've already admitted that I do. Why do you keep making me repeat it?
 Dwight:: Because you're engaged to Andy.
-Angela::
 Michael:: Well?
 Dwight:: Not yet.
 Jim:: When?
@@ -143,8 +141,6 @@ Angela:: We can talk right here.
 Andy:: I need to talk to you in private.
 Kevin:: We're not listening.
 Andy:: Let's go to the conference room.
-
-
 Andy:: Is it true?
 Angela:: What have you heard?
 Andy:: That you're sleeping with Dwight.
@@ -232,7 +228,6 @@ Dwight:: I will also be talking my break at the exact same time and in the same 
 Andy::  What a coincidence.
 Dwight:: Mm.
 Jim:: So, I either get more involved, or I take a sick day... leaving Dwight in charge. Oh God.
-Jim::
 Dwight::  How'd that get there?
 Meredith:: There's a star-shaped thing taped under the kitchen table.
 Jim:: Thanks Meredith.
@@ -287,7 +282,5 @@ Dwight:: She's sleeping with you?
 Andy:: I'm her fiance.
 Dwight:: She said she was only sleeping with me.
 Andy::  Yes, hi, my last name is Bernard, and I would like to cancel a wedding cake that I had ordered. B-E-R, N-A, R-D. Yeah, the one shaped like a sailboat... Yep, that's the one.
-Dwight::
 Andy:: Thank you.
 Michael:: Wow, what a day! Haha! I thought I was gong to get chewed out, but, hold on! Here's an attaboy for ya! What? Rollercoaster ride! Rollercoaster! It just goes to show, you leave Scranton, exciting things can happen.  Ahh!
-Dwight::

@@ -73,7 +73,6 @@ Erin:: I'm in the bathroom.
 Glenn:: Where's the postage? I mean, there's no shipping label.
 Irene:: Did you wash your hands?
 Erin:: Yes.
-Erin and Irene::
 Andy::  Here I am; Signed, sealed, delivered; I'm yours!
 Erin:: Andy, what are you doing here? It's great to see you.
 Andy:: Uh, I am here to take you back to Scranton. Because I love you and I want to be with you.
@@ -125,8 +124,6 @@ Jim:: What? You're in Florida? Andy, Nellie Bertram's trying to take your job.
 Andy:: What do you mean, take my job?
 Jim:: Like, set up camp in your office and is calling herself the manager.
 Andy:: Okay... Jim, I really appreciate you looking out for me, but I'm not coming home without Erin. So I'll talk to you later.
-
-
 Jim:: Guys, we cannot do these performance reviews, okay? If we go into them, you're basically accepting Nellie as your manager, and trust me, you do not want her as your manager.
 Angela:: Trust you? The way Pam trusted you to provide for her so she wouldn't have to work?
 Pam:: I like working here.
@@ -164,7 +161,6 @@ Jim:: Yes.
 Robert:: Jim, would you prefer a nature metaphor or a sexual metaphor?
 Jim:: Oh, god, nature, please.
 Robert:: When two animals are having s*x, one of them...
-Jim::
 Robert:: ... is communicating a message to the other. Nothing is mutua-- this isn't very helpful. You're gonna want to hear the sexual metaphor.
 Jim:: Was that not the--
 Robert:: All life is s*x. And all s*x is competition.
@@ -201,7 +197,6 @@ Andy:: You broke my heart too.
 Erin:: You broke my heart more recently and more often. And I think at some point, in my head, it just sort of clicked that we're not meant to be.
 Andy:: I'm so sorry that we have not loved each other at the same time.
 Erin:: I know.
-Andy::
 Nellie:: So, Pamela, I'm going to start this review, not by telling you what you lack, but rather, asking you what it is you want.
 Pam:: Really? Okay, well, um, I like consistency in the manager's position, no weird silent coups. Stuff like that. I'm easy.
 Nellie:: That's not really what you want. What you want is a good night's sleep, working mother of two.

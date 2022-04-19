@@ -9,7 +9,6 @@ Michael:: I'm working on an English character. Would you mind gi... It's called 
 David:: Ooh! David Brent, my liege. How are you?
 Michael:: Michael Scott.
 David:: Oh, there you go. I do characters as well. I got a Chinese fella. He's called Ho Li . That's what it sounds like.
-Michael::
 David:: Herrow! Herrow!
 Michael:: I do Ping. Herrow. I Ping!
 David:: You can't do that these days. You can't.
@@ -142,8 +141,6 @@ Kelly:: But perhaps no achievement is greater than his on-again, off-again girlf
 Andy:: What are you...
 Kelly:: Who am I? I'm Kelly Kapoor, the business bitch.
 Kelly:: It is important to brand yourself, so I have a couple of things in works. "The Business Bitch", "The Diet Bitch", "The Shopping Bitch", "The Etiquette Bitch."
-
-
 Kelly:: I could sit here, and I could tell you the ten secrets of business, and you would have a great time, and you would learn a lot. But who better to tell you than the Yale University adjunct professor in management, Professor Scott Powell, who I have on my Blackberry. It's ringing.
 Professor Powell:: Hey, Kelly Kapoor. What a delicious surprise.
 Kelly:: Profess Powell, you are on speakerphone.
@@ -260,7 +257,6 @@ Jim:: It has been, yeah.
 Tom:: So you work here, huh?
 Jim:: Sales.
 Tom:: Must be a front for some kind of famous laboratory.
-Jim::
 Tom:: 'Cause you're so smart.
 Jim:: Oh, man. You remember that, huh?
 Tom:: Oh, barely. I'm so dumb, you know, stuff goes in, stuff goes out. Not like you probably remember every paper sale you ever made. Paper salesman genius.

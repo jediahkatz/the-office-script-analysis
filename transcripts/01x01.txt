@@ -104,8 +104,6 @@ Pam:: Nothing.
 Michael:: If you're unhappy with your compensation, maybe you should take it up with HR. OK. Not today, OK? Pam, just be professional.
 Michael:: I think I'm a role model here. I think I garner people's respect.  Attention all Dunder Mifflin employees, please. We have a meeting in the conference room, ASAP.
 Michael:: People I respect, heroes of mine, would be Bob Hope... Abraham Lincoln, definitely. Bono. And probably God would be the fourth one. And I just think all those people really helped the world in so many ways that it's really beyond words. It's really incalculable.
-
-
 Michael:: Now I know there's some rumors out there and I just kind of want to set the record straight.
 Dwight:: I'm Assistant Regional Manager. I should know first.
 Michael:: Assistant to the Regional Manager.
@@ -149,7 +147,6 @@ Dwight:: New engine, new suspension, I got a respray. I've got some photos.
 Dwight:: Damn it! Jim!
 Michael:: OK. Hold on, hold on. The judge is in session. What is the problem here?
 Dwight:: He put my stuff in Jell-O again.
-Pam::
 Dwight:: That's real professional thanks. That's the third time and it wasn't funny the first two times either Jim.
 Dwight:: It's OK here, but people sometimes take advantage because it's so relaxed. I'm a volunteer Sheriff's Deputy on the weekends. And you cannot screw around there. That's sort of one of the rules.
 Michael:: What is that?

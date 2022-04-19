@@ -67,7 +67,6 @@ Pam:: Yes, you have very nice teeth.
 Jim:: Thanks.
 Ryan:: Who is your emergency contact?
 Kevin:: Stacy.
-Ryan::
 Michael::  Pick up.
 Ryan:: Hello?
 Michael::  This is Mike Tyson.
@@ -123,8 +122,6 @@ Dwight:: Ok, I'll punch you.
 Michael:: Ok, here we go. Alright, come on.
 Dwight:: Kiyah!
 Michael:: Fuuuaaaahhhhh... oohhhhh!
-
-
 Dwight:: Did I want to harm Michael? The one man I've been hired to protect? No, I did not.
 Jim:: Are you ok? Are you sure you are alright?
 Michael:: Yeah.  Thank you.

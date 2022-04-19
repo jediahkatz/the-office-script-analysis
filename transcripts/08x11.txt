@@ -1,4 +1,3 @@
-
 Kevin:: Oh yeah!
 All:: Aw!
 Dwight:: Knew it! I knew it! Soon as I heard that wrapper.
@@ -107,8 +106,6 @@ Jim:: Okay.
 Andy:: All right, everybody. Nice self-awareness. Except...
 Kevin:: Okay.
 Jim:: There's a table over here.
-
-
 Host:: All right, first question everyone: Ray Charles famously had this state on his mind. What is its capital?
 Andy:: Oh, we got this!
 Creed:: Let's reverse engineer this. You're a black singer. Where do you go? Somewhere where you're a novelty. Alaska?

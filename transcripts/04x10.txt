@@ -17,7 +17,6 @@ Michael:: Just go out, and come back in.
 Stanley:: I got an offer from Utica for more money, and I'm going to take it.
 Michael:: What?
 Michael:: Hey everyone, can I have your attention please? I just thought you all should know that Stanley Hudson is planning on leaving us, because our old friend Karen from Utica is going to give him more money to work there.
-All::
 Michael:: No, no, no, no, no-no, no no. You completely misinterpreted my tone, this is a horrible thing. Clearly, Karen is trying to get back at us because Jim dumped her.
 Jim:: Oh, I don't think that is what's happening.
 Michael:: Okay, smarty pants, then why? Why is she trying to take Stanley from us?
@@ -62,7 +61,6 @@ Michael:: Hi Ben, Michael Scott.
 Ben:: Hi Michael.
 Michael:: I'm going to cut right to the chase here. Do you like magic? Because I'm a genie in a bottle, and I'm going to grant you three wishes. To move to Scranton, to have a great job, and to be my best friend.
 Ben:: Aren't you the guy that hit the woman with your car?
-Pam::
 Michael::  Get out.  Uh, yeah. I also saved her life, but I guess that's not as grabby.
 Ben:: Everyone says Scranton branch is worse than Camden. Didn't everyone from Stanford quit, like immediately?
 Michael:: No, I fired them, and your next. ... So what do you say?
@@ -126,8 +124,6 @@ Dwight:: Come on, I already filled the bottles with the gas, it's going to be so
 Jim:: Are you kidding me? We've been driving around with this stuff in the trunk the whole time?
 Michael:: Teach her to offer Stanley more money.
 Jim:: So the deal was, Dwight doesn't blow anything up, and I wear a costume. And a moustache.
-
-
 Michael:: So, why did you and Karen break up? Was it the s*x?
 Jim:: What?
 Michael:: I can't imagine the s*x being bad, I mean her body is...
@@ -248,7 +244,6 @@ Karen:: So you're still doing this kind of stuff, huh?
 Jim:: Yeah, trying to quit though.
 Karen:: If you wanted to see me, you could have just called me like an adult.
 Jim:: Oh no, I didn't want to see you. Not that I'm not happy seeing you, right now, I'm just saying ultimately I was here for the copier. Equal, I'd say it was equal. So, good to see you...
-Karen::
 Jim:: I mean, it's just that-  You know, Pam and I are still dating, so, and, I just mean that things are going really well, so I didn't want to see... you...
 Karen:: Oh, things are going really well? Are they? They are? That's great, that's so great. I wanna hear more about how happy you are with Pam. Can you tell me more about that? Thank you so much for coming to Utica, and breaking my copier, and telling me how well things are going in your relationship, really, thank you.
 Jim::  Alright, you are welcome. I'm going to go because of, um, traffic.
@@ -264,7 +259,6 @@ Stanley:: I wasn't really planning on leaving, all I wanted was a raise. How on 
 Jim:: Hey.
 Pam:: I'm so sorry, Rolando told me everything. How humiliating. Would it help you to return to another age? A time of refinement, and civility.
 Jim:: Are you inviting me to the Finer Things Club?
-Pam::
 Andy:: Oh-oh, come on!
 Jim::  Angela's Ashes, top o' the morning to us. Frankie's prose is funnier than a pot of gold, say I.
 Oscar:: Okay, did you get it out of your system.
@@ -280,4 +274,3 @@ Jim:: Of course I read it.
 Oscar:: How does it end?
 Toby:: Who was the main character?
 Jim:: Angela. Nope. The ashes.
-Pam::

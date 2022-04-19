@@ -72,12 +72,10 @@ Robert:: Let's do it now. What's number one?
 Pam:: Why don't I help you now?
 Robert:: There we go.
 Pam:: Okay.
-
 Harry:: Who the hell are Jim Halpert and Dwight Schrute?
 Erin:: Jim, Dwight, what are your last names?
 Dwight:: And you are...
 Harry:: Harry Jannerone, Dunder Mifflin Syracuse.
-
 Harry:: What the hell's all this?
 Andy:: Uh, cherries jubilee over homemade gelato.
 Harry:: You live well down here in P.A. I want to talk to you guys right now. Oh, and Lloyd Gross too. Which one's that guy?
@@ -134,8 +132,6 @@ Dwight:: Jim, you know what would be really dastardly? If we snuck out of here a
 Jim::  He's running!
 Dwight:: Damn it!
 Jim:: Damn it.
-
-
 Dwight:: Wha – what is this supposed to be?
 Jim:: It's a monkey.
 Dwight:: Jim, great real. This is not a monkey. It's got a hula skirt and a blue nose.

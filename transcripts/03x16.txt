@@ -7,7 +7,6 @@ Jim::  Altoid?
 Dwight:: Sure
 Jim::  Mint Dwight?
 Dwight:: Inbwit? Yes.
-Dwight::
 Jim:: What are you doing?
 Dwight:: I...
 Jim:: What?
@@ -68,7 +67,6 @@ Michael:: This strappy young lad sitting here is Phyllis' father, Albert, and he
 Pam:: That's my dress.
 Michael::  That's ok.
 Dwight:: It's a miracle.
-Crowd::
 Michael:: This is bull****!
 Michael:: Me walking Phyllis down the aisle was supposed to be the highlight of the wedding. And now... the wedding has no highlight.
 Michael:: I can't believe I pushed that... that guy's lazy ass around all day... until he was ready to stand up and steal the show. That's... well... I got news for you, Albert. If that's your real name. The show's not over.
@@ -81,8 +79,6 @@ Priest:: ... take Phyllis to be your lawfully wedded wife
 Bob Vance:: I do.
 Priest:: You may now kiss the bride.
 Michael:: Ladies and Gentleman, for the first time as a couple, Mr. and Mrs. Bob Vance.  Yeah! That's what I'm talking about!
-
-
 Angela:: Congratulations, Phyllis. You look lovely. Your dress is very white. So white, my eyes are burning.
 Phyllis:: Thanks Angela.
 Michael:: Congratulations, Bob. You're a good man. But just know... if you ever lay a finger on Phyllis, I will k*ll you.
@@ -125,7 +121,6 @@ Roy:: Sorry about that.
 Pam:: It's okay.
 Roy:: You think this sucks for you? I was the one who actually wanted to get married.
 Randy:: Phyllis, you're a wonderful woman. And you're a hell of a bowler!
-Crowd::
 Unknown:: She is.
 Randy:: Cheers.
 Crowd:: Cheers.

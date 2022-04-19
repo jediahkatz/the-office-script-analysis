@@ -147,8 +147,6 @@ Bookstore employee:: Well, if you read a lot, you should check out our e-readers
 Darryl:: Whoa, I work at a paper company, those things terrify me. They could put us out of business, you know? I heard those machines hold like, ten books at once.
 Bookstore employee:: Actually, it's ten thousand.
 Darryl:: Holy , what? Let me see that. It's so light. Like a croissant.
-
-
 Andy:: Hi.
 Customer:: Hi.
 Dwight:: Welcome.
