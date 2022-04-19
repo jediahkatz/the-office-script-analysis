@@ -1,56 +1,58 @@
+from time import sleep
+from typing import List, Optional, Tuple
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
 
-def scrape_episode(ep_num):
+def scrape_episode(ep_code: int) -> Tuple[Optional[List[str]], Optional[str]]:
     """
     Scrape an episode transcript from avatarspirit.net and parse it into a plaintext format,
     which only contains dialogue. Each line is of the form [Character: spoken dialogue]. 
     """
-    url = f'http://atla.avatarspirit.net/transcripts.php?num={ep_num}'
+    url = f'https://transcripts.foreverdreaming.org/viewtopic.php?f=574&t={ep_code}'
     html = urlopen(url)
     soup = BeautifulSoup(html.read(), features='lxml')
-    return clean_transcript(soup)
+    if not (ep_num := get_ep_num(soup)):
+        return None, None
+    return clean_transcript(soup), ep_num
 
-def clean_transcript(script_soup):
+def get_ep_num(script_soup: BeautifulSoup) -> Optional[str]:
+    """Return the season and episode number as a string, e.g. 02x13."""
+    header = script_soup.find('div', class_='t-header')
+    ep_num_and_name = header.find('a').get_text()
+    print(ep_num_and_name)
+    # Special content
+    if 'Deleted Scenes' in ep_num_and_name or 'x00' in ep_num_and_name:
+        return
+    ep_num = ep_num_and_name[:ep_num_and_name.find('-')].strip()
+    # More special content
+    special_episodes = ['05x29', '05x30']
+    if ep_num in special_episodes:
+        return
+    # Two combined episodes
+    ep_num = ep_num.replace('/', '-')
+    return ep_num
+
+def clean_transcript(script_soup: BeautifulSoup):
     """Strip out everything but dialogue and character names and return a list of lines."""
-    script_text = ' '.join([
-        t for line in script_soup.find('blockquote').children
-        if (t:=(
-            '' if line.name=='i'
-            else str(line).strip().replace('\r', '').replace('<b>:</b>', ':').replace('</b>', ':')
-                if line.name=='b' or not hasattr(line, 'get_text') 
-            else line.get_text()
-        ))
-    ])
-    script_lines = script_text.split('<b>')
-    # Remove everything before Act I begins
-    try:
-        act_i_idx = next(i for i in range(len(script_lines)) if 'Act I' in script_lines[i])
-        script_lines = script_lines[act_i_idx+1:]
-    except StopIteration:
-        # The Tales of Ba Sing Se
-        start_idx = next(i for i in range(len(script_lines)) if 'The Tale of' in script_lines[i])
-        script_lines = [line for line in script_lines[start_idx:] if 'The Tale of' not in line]
-
+    script_lines = [l.get_text() for l in script_soup.find('div', class_='postbody').find_all('p')]
     script_lines = [
         re.sub('([\(\[]).*?([\)\]])', '',           # Remove all text in parens/brackets
-        re.sub(r'\([^()]*\)', '',                   # Sometimes it's even doubly nested
-        re.sub('Act (I+|I*VI*|I*XI*)', '', line)))  # Remove "Act _"
+        re.sub(r'\([^()]*\)', '', line))            # Sometimes it's even doubly nested
         .replace('(', '').replace(')', '')          # Sometimes they forget to properly close parens...
         .strip() for line in script_lines
     ]
-    # Remove any stray lines without dialogue (negligible cases of two people speaking at once)
-    script_lines = [
-        l for line in script_lines if '::' in (l := line.replace(': :', '::')) 
-    ]
+    script_lines = [l.replace(':', '::', 1) for l in script_lines]
     return (f'{l.strip()}\n' for l in script_lines)
 
 # Scrape all episodes and write each to a file
-for season in range(1, 4):
-    for episode in range(1, 21):
-        ep_num = f'{season}{str(episode).zfill(2)}'
-        script_lines = list(scrape_episode(ep_num))
-        with open(f'transcripts/{ep_num}.txt', mode='w') as f:
-            f.writelines(script_lines)
-        assert sum(l.count('::') for l in script_lines) == len(list(script_lines))
+MIN_EP_CODE = 25301
+MAX_EP_CODE = 25498
+for ep_code in range(MIN_EP_CODE, MAX_EP_CODE + 1):
+    script_lines, ep_num = list(scrape_episode(ep_code))
+    if not ep_num:
+        continue
+    with open(f'transcripts/{ep_num}.txt', mode='w') as f:
+        f.writelines(script_lines)
+    assert sum(l.count('::') for l in script_lines) == len(list(script_lines))
+    sleep(2)
